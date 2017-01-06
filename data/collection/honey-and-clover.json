@@ -1,0 +1,161 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "蜂蜜与四叶草",
+  "author": "羽海野千花",
+  "date": "2005",
+  "desc": "",
+  "cover": "github+honey-and-clover-cover.jpeg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "蜂蜜与四叶草",
+    "honey and clover"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ドラマチック",
+      "singer": "YUKI",
+      "desc": "op",
+      "cover": "github+honey-and-clover-song.jpg",
+      "album": "ハチミツとクローバー オリジナルサウンドトラック",
+      "audio": {
+        "xiami": "3518726",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ワルツ",
+      "singer": "スネオヘアー",
+      "desc": "ED （第1～12话、第24话（最终话）） ",
+      "cover": "github+honey-and-clover-song.jpg",
+      "album": "ハチミツとクローバー オリジナルサウンドトラック",
+      "audio": {
+        "xiami": "3518756",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Mistake",
+      "singer": "THE BAND HAS NO NAME",
+      "desc": "ED （第13～第23话）",
+      "cover": "github+honey-and-clover-song.jpg",
+      "album": "ハチミツとクローバー オリジナルサウンドトラック",
+      "audio": {
+        "xiami": "3518740",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "ふがいないや",
+      "singer": "YUKI",
+      "desc": "第二季 OP",
+      "cover": "github+honey-and-clover-song.jpg",
+      "album": "ハチミツとクローバー COMPLETE BEST",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": "4969610"
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "スプリット",
+      "singer": "スネオヘアー",
+      "desc": "第二季 ED",
+      "cover": "github+honey-and-clover-song.jpg",
+      "album": "ハチミツとクローバー COMPLETE BEST",
+      "audio": {
+        "xiami": "1769593710",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ハチミツ",
+      "singer": "SPITZ",
+      "desc": "插入曲 第1话",
+      "cover": "github+honey-and-clover-song2.jpg",
+      "album": "ハチミツとクローバー オリジナルサウンドトラック",
+      "audio": {
+        "xiami": "3518734",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "乙女のレシピ",
+      "singer": "",
+      "desc": "",
+      "cover": "github+honey-and-clover-song2.jpg",
+      "album": "ハチミツとクローバー オリジナルサウンドトラック",
+      "audio": {
+        "xiami": "3518743",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Colors in Bloom",
+      "singer": "菅野よう子",
+      "desc": "电影原声音乐",
+      "cover": "github+honey-and-clover-movie.jpg",
+      "album": "ハチミツとクローバー オリジナル・サウンドトラック",
+      "audio": {
+        "xiami": "",
+        "douban": "964146g43b5",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Going to the sea",
+      "singer": "菅野よう子",
+      "desc": "电影原声音乐",
+      "cover": "github+honey-and-clover-movie.jpg",
+      "album": "ハチミツとクローバー オリジナル・サウンドトラック",
+      "audio": {
+        "xiami": "2134632",
+        "douban": "964150g97bf",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ]
+}

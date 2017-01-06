@@ -1,0 +1,272 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "日常",
+  "author": "あらゐけいいち",
+  "date": "2011",
+  "desc": "电视动画《日常》是根据日本漫画家あらゐけいいち同名漫画改编的电视动画，由京都动画制作，于2011年4月3日播出，共26话。重制版于2012年1月1日开始在NHK教育频道播出，删减后共12话。OVA于2011年3月12日发售。",
+  "cover": "github+nichijou-cover.jpg",
+  "online": "http://bangumi.bilibili.com/anime/844",
+  "keyword": [
+    "日常",
+    "nichijou"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ヒャダインのカカカタ☆カタオモイ-C",
+      "singer": "前山田健一",
+      "desc": "op (第1话～第6话、第8话～第13话)",
+      "cover": "github+nichijou-song.jpg",
+      "album": "ヒャダインのカカカタ☆カタオモイ-C",
+      "audio": {
+        "xiami": "1770148689",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "ヒャダインのじょーじょーゆーじょー",
+      "singer": "前山田健一",
+      "desc": "op （第14话～第16话、第18话～第23话、第25话）",
+      "cover": "github+nichijou-song2.jpg",
+      "album": "ヒャダインのじょーじょーゆーじょー",
+      "audio": {
+        "xiami": "1770354131",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Zzz",
+      "singer": "佐咲纱花",
+      "desc": "ed （第1话～第13话）",
+      "cover": "github+nichijou-song3.jpg",
+      "album": "Zzz",
+      "audio": {
+        "xiami": "",
+        "douban": "1803508g3d1f",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "翼をください",
+      "singer": "佐咲纱花",
+      "desc": "ed （第14话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051308g74e9",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "気球にのってどこまでも",
+      "singer": "古谷静佳、今野宏美、白石稔",
+      "desc": "ed （第15话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051309ga410",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "マイバラード",
+      "singer": "佐咲纱花",
+      "desc": "ed （第16话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051310g5bfa",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "怪獣のバラード",
+      "singer": "本多真梨子、相泽舞、富樫美铃",
+      "desc": "ed （第17话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051311g07bb",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "グリーングリーン",
+      "singer": "佐咲纱花",
+      "desc": "ed （第18话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051313g3f78",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "野生の马",
+      "singer": "稻田彻、小菅真美、水原薫、比上孝浩、广坂爱、佐土原香织、竹内良太",
+      "desc": "ed （第19话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051314ge6e0",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "あの素晴しい爱をもう一度",
+      "singer": "佐咲纱花",
+      "desc": "ed （第20话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051315g2491",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "巣立ちの歌",
+      "singer": "川原庆久、堀川千华、山本和臣、玉置阳子、樋口结美",
+      "desc": "ed（第21话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051316g4dd0",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "仰げば尊し",
+      "singer": "佐咲纱花",
+      "desc": "ed （第22话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051317ge003",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "空がこんなに青いとは",
+      "singer": "今野宏美、富樫美铃",
+      "desc": "ed （第23话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051318g2157",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "勇気一つを友にして",
+      "singer": "佐咲纱花",
+      "desc": "ed （第24话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051319g42dc",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Let's search for Tomorrow",
+      "singer": "本多真梨子、相泽舞、富樫美铃",
+      "desc": "ed （第25话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051321gfd95",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "旅立ちの日に",
+      "singer": "本多真梨子、相泽舞、富樫美铃、古谷静佳、今野宏美、白石稔",
+      "desc": "ed （第26话）",
+      "cover": "github+nichijou-song4.jpg",
+      "album": "「日常」の合唱曲",
+      "audio": {
+        "xiami": "",
+        "douban": "2051322g227c",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ]
+}

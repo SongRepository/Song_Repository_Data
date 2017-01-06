@@ -1,0 +1,45 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "JOJO的奇妙冒险: 战斗潮流",
+  "author": "荒木飞吕彦",
+  "date": "2014",
+  "desc": "JOJO的奇妙冒险 第二部",
+  "cover": "https://imgsa.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=8e29ba982cf5e0fefa1581533d095fcd/eac4b74543a98226b1ca9ea68b82b9014a90eb2c.jpg",
+  "online": "",
+  "keyword": [
+    "JOJO的奇妙冒险"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "op 1",
+      "singer": "op author",
+      "desc": "",
+      "cover": "op cover",
+      "audio": {
+        "xiami": "op xiami id",
+        "douban": "op douban id",
+        "netease": "op netease id"
+      },
+      "video": {
+        "bilibili": "op bilibili id"
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ed 1",
+      "singer": "ed author",
+      "desc": "",
+      "cover": "ed cover",
+      "audio": {
+        "xiami": "ed xiami id",
+        "douban": "ed douban id",
+        "netease": "ed netease id"
+      },
+      "video": {
+        "bilibili": "ed bilibili id"
+      }
+    }
+  ]
+}

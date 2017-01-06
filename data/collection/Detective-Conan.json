@@ -1,0 +1,1569 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "名侦探柯南",
+  "author": "青山刚昌",
+  "date": "1996",
+  "desc": "名侦探柯南",
+  "cover": "github+Detective-Conan-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "名侦探柯南",
+    "Detective Conan"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "胸がドキドキ",
+      "singer": "THE HIGH-LOWS",
+      "desc": "OP 1-30",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "STEP BY STEP",
+      "singer": "ZIGGY",
+      "desc": "ED 1-25",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Feel Your Heart",
+      "singer": "VELVET GARDEN",
+      "desc": "OP 31-52",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "迷宫のラヴァーズ",
+      "singer": "heath",
+      "desc": "ED 26-51",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "谜",
+      "singer": "小松未步",
+      "desc": "OP 53-96",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "光と影のロマン",
+      "singer": "宇德敬子",
+      "desc": "ED 52-70",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君がいない夏",
+      "singer": "DEEN",
+      "desc": "ED 71-83",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "运命のルーレット廻して",
+      "singer": "ZARD",
+      "desc": "OP 97-123",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "愿い事ひとつだけ",
+      "singer": "小松未步",
+      "desc": "ED 84-108",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "氷の上に立つように",
+      "singer": "小松未步",
+      "desc": "ED 109-131",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "TRUTH",
+      "singer": "TWO-MIX",
+      "desc": "OP 124-142",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Still for your love",
+      "singer": "rumania montevideo",
+      "desc": "ED 132-152",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "ギリギリchop",
+      "singer": "B'z",
+      "desc": "OP 143-167",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Free Magic",
+      "singer": "WAG",
+      "desc": "ED 153-179",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Mysterious Eyes",
+      "singer": "GARNET CROW",
+      "desc": "OP 168-204",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Secret of my heart",
+      "singer": "仓木麻衣",
+      "desc": "ED 180-204",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "恋はスリル、ショック、サスペンス",
+      "singer": "爱内里菜",
+      "desc": "OP 205-230",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "夏の幻",
+      "singer": "GARNET CROW",
+      "desc": "ED 205-218",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Start in my life",
+      "singer": "仓木麻衣",
+      "desc": "ED 219-232",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "destiny",
+      "singer": "松桥未树",
+      "desc": "OP 231-258",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "always",
+      "singer": "仓木麻衣",
+      "desc": "ED 233-247",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Winter Bells",
+      "singer": "仓木麻衣",
+      "desc": "OP 259-270",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "青い青いこの地球(ほし)に",
+      "singer": "上原杏美",
+      "desc": "ED 248-265",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "I can't stop my love for you",
+      "singer": "爱内里菜",
+      "desc": "OP 271-305",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "梦みたあとで",
+      "singer": "GARNET CROW",
+      "desc": "ED 266-287",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "无色",
+      "singer": "上原杏美",
+      "desc": "ED 288-299",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Overture",
+      "singer": "稻叶浩志",
+      "desc": "ED 300-306",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "风のららら",
+      "singer": "仓木麻衣",
+      "desc": "OP 306-332",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "明日を梦见て",
+      "singer": "ZARD",
+      "desc": "ED 307-328",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "君と约束した优しいあの场所まで",
+      "singer": "三枝夕夏 IN db",
+      "desc": "OP 333-355",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君という光",
+      "singer": "GARNET CROW",
+      "desc": "ED 329-349",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "START",
+      "singer": "爱内里菜",
+      "desc": "OP 356-393",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "眠る君の横颜に微笑みを",
+      "singer": "三枝夕夏 IN db",
+      "desc": "ED 350-375",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "忘れ咲き",
+      "singer": "GARNET CROW",
+      "desc": "ED 376-397",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "星のかがやきよ",
+      "singer": "ZARD",
+      "desc": "OP 394-414",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ジューンブライド ～あなたしか见えない～",
+      "singer": "三枝夕夏 IN db",
+      "desc": "ED 398-406",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "世界 止めて",
+      "singer": "竹井诗织里",
+      "desc": "ED 407-416",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Growing of my heart",
+      "singer": "仓木麻衣",
+      "desc": "OP 415-424",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Thank You For Everything",
+      "singer": "岩田小百合",
+      "desc": "ED 417-424",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "冲动",
+      "singer": "B'z",
+      "desc": "OP 425-437",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "悲しいほど贵方が好き",
+      "singer": "ZARD",
+      "desc": "ED 425-437",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "100もの扉",
+      "singer": "爱内里菜",
+      "desc": "OP 438-456",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "もう君だけを离したりはしない",
+      "singer": "上木彩矢",
+      "desc": "ED 438-458",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "云に乗って",
+      "singer": "三枝夕夏 IN db",
+      "desc": "OP 457-474",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "白い雪",
+      "singer": "仓木麻衣",
+      "desc": "ED 459-470",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "涙のイエスタデー",
+      "singer": "GARNET CROW",
+      "desc": "OP 475-486",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "I still believe ～ため息～",
+      "singer": "滴草由实",
+      "desc": "ED 471-486",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "グロリアス マインド",
+      "singer": "ZARD",
+      "desc": "OP 487-490",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "世界はまわると言うけれど",
+      "singer": "GARNET CROW",
+      "desc": "ED 487-490",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "爱は暗闇の中で",
+      "singer": "ZARD",
+      "desc": "OP 491-504",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "雪どけのあの川の流れのように",
+      "singer": "三枝夕夏 IN db",
+      "desc": "ED 491-504",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "一秒ごとに Love for you",
+      "singer": "仓木麻衣",
+      "desc": "OP 505-514",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Summer Memories",
+      "singer": "上木彩矢",
+      "desc": "ED 505-514",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Mysterious",
+      "singer": "Naifu",
+      "desc": "OP 515-520",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "GO YOUR OWN WAY",
+      "singer": "滴草由实",
+      "desc": "ED 515-520",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Revive",
+      "singer": "仓木麻衣",
+      "desc": "OP 521-529",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "恋心 辉きながら",
+      "singer": "Naifu",
+      "desc": "ED 521-529",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Everlasting Luv",
+      "singer": "BREAKERZ",
+      "desc": "OP 530-546",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Doing all right",
+      "singer": "GARNET CROW",
+      "desc": "ED 530-539",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "MAGIC",
+      "singer": "爱内里菜",
+      "desc": "OP 547-564",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "光",
+      "singer": "BREAKERZ",
+      "desc": "ED 540-561",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "As the Dew",
+      "singer": "GARNET CROW",
+      "desc": "OP 565-582",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Hello Mr.my yesterday",
+      "singer": "Hundred Percent Free",
+      "desc": "ED 562-587",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Summer Time Gone",
+      "singer": "仓木麻衣",
+      "desc": "OP 583-601",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Tomorrow is the last Time",
+      "singer": "仓木麻衣",
+      "desc": "ED 588-601",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "tear drops",
+      "singer": "Caos Caos Caos",
+      "desc": "OP 602-612",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "十五夜クライシス ～君に逢いたい～",
+      "singer": "Hundred Percent Free",
+      "desc": "ED 602-609",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Don't Wanna Lie",
+      "singer": "B'z",
+      "desc": "OP 613-626",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "月夜の悪戯の魔法",
+      "singer": "BREAKERZ",
+      "desc": "ED 610-626",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Misty Mystery",
+      "singer": "GARNET CROW",
+      "desc": "OP 627-641",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ピルグリム",
+      "singer": "B'z",
+      "desc": "ED 627-628",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Your Best Friend",
+      "singer": "仓木麻衣",
+      "desc": "ED 629-643",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Miss Mystery",
+      "singer": "BREAKERZ",
+      "desc": "OP 642-666",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "悲しいほど 今日の夕阳 きれいだね",
+      "singer": "grram",
+      "desc": "ED 644-653",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "オーバーライト",
+      "singer": "BREAKERZ",
+      "desc": "ED 654-666",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "君の涙にこんなに恋してる",
+      "singer": "なついろ",
+      "desc": "OP 667-680",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "恋に恋して",
+      "singer": "仓木麻衣",
+      "desc": "ED 667-686",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Try again",
+      "singer": "仓木麻衣",
+      "desc": "OP 681-695",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "瞳のメロディ",
+      "singer": "BOYFRIEND",
+      "desc": "ED 687-704",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Q&A",
+      "singer": "B'z",
+      "desc": "OP 696-717",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君の笑颜がなによりも好きだった",
+      "singer": "Chicago Poodle",
+      "desc": "ED 705-721",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Butterfly Core",
+      "singer": "VALSHE",
+      "desc": "OP 718-743",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "いま逢いたくて…",
+      "singer": "DAIGO",
+      "desc": "ED 722-736",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Greed",
+      "singer": "KNOCK OUT MONKEY",
+      "desc": "OP 744-756",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "RAIN MAN",
+      "singer": "AKIHIDE",
+      "desc": "ED 737-749",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "DYNAMITE",
+      "singer": "仓木麻衣",
+      "desc": "OP 757-773",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "无敌なハート",
+      "singer": "仓木麻衣",
+      "desc": "ED 750-762",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "WE GO",
+      "singer": "BREAKERZ",
+      "desc": "OP 774-789",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "谜",
+      "singer": "La PomPon",
+      "desc": "OP 790-803",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君への嘘",
+      "singer": "VALSHE",
+      "desc": "ED 763-803",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "羽",
+      "singer": "稻叶浩志",
+      "desc": "OP 804-816",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "运命のルーレット廻して",
+      "singer": "La PomPon",
+      "desc": "ED 804-812",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "世界はあなたの色になる",
+      "singer": "B’z",
+      "desc": "OP 817-844",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ふたりの秒针",
+      "singer": "焚吐",
+      "desc": "ED 813-826",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "SAWAGE☆LIFE",
+      "singer": "仓木麻衣",
+      "desc": "ED 827-842",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "几千の迷宫で 几千の谜を解いて",
+      "singer": "BREAKERZ",
+      "desc": "OP 845-",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "YESTERDAY LOVE",
+      "singer": "仓木麻衣",
+      "desc": "ED 843-",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ]
+}

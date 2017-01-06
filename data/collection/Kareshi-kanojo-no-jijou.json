@@ -1,0 +1,46 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "彼氏彼女の事情",
+  "author": "津田雅美",
+  "date": "1998",
+  "desc": "拥有双重性格、超级虚荣的优等生宫泽雪野，最喜欢大家对她行注目礼。可是在高中入学典礼上，却出现了前所未有的危机－雪野想当上新生代表、大出风头的美梦，竟被同班同学有马总一郎给粉碎了！ 雪野于是燃起熊熊火焰，发誓绝对要打倒有马总一郎！但是雪野不为人知的真面目，却被死对头有马给发现了。",
+  "cover": "github+Kareshi-kanojo-no-jijou.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["彼氏彼女の事情", "他和她的事情"],
+  "song": [
+    {
+      "type": "op",
+      "name": "天使のゆびきり",
+      "singer": "福田舞 ",
+      "desc": "OP",
+      "cover": "github+Kareshi-kanojo-no-jijou-op.jpg",
+      "album": "天使のゆびきり",
+      "audio": {
+        "xiami": "1771822611",
+        "douban": "1644872gab64",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "梦の中へ",
+      "singer": "榎本温子",
+      "desc": "ED",
+      "cover": "github+Kareshi-kanojo-no-jijou-ed.jpg",
+      "album": "梦の中へ",
+      "audio": {
+        "xiami": "1771505931",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ]
+}

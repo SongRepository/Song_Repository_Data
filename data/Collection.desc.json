@@ -1,0 +1,29 @@
+{
+  "version" : "0.1",
+  "type": "",     //  value: "anime" | "doujin" | "other"
+  "name": "",     //  value: "JOJO的奇妙冒险：星尘斗士"
+  "author": "",   //  value: "荒木飞吕彦"
+  "date": "",     //  value: "2014"
+  "desc": "",     //  value: "1984年，迪奥·布兰度和...........承太郎与乔瑟夫出发前往DIO的所在地：埃及。"
+  "cover": "",    //  value: "imgsa.baidu.com/baike/w%3D268/sign=bba609209158d109c4e3aeb4e959ccd0/cc11728b4710b912ae0e9ca0c0fdfc03934522a4.jpg"
+  "online" : "",  //  value: "http://www.bilibili.com/video/av6657993" | "www.acfun.cn/a/aa5008323"
+  "keyword": [],  //  value: ["jojo", "JOJO的奇妙冒险"， "ジョジョの奇妙な冒険", "卖鱼强", "你已经死了！"]
+  "song": [
+    {
+      "type": "", //  value: "op" | "ed" | "ost"
+      "name": "",
+      "singer": "",
+      "desc": "",
+      "cover": "",
+      "album": "",  //  album name
+      "audio": {
+        "xiami": "",  //  value: song id << 1771386486 << www.xiami.com/song/1771386486
+        "douban": "", //  value: song id << 1877557g4b29 << douban.fm/song/1877557g4b29
+        "netease": "" //  value: song id << 26608788 << http://music.163.com/#/song?id=26608788
+      },
+      "video": {
+        "bilibili": ""  //
+      }
+    }
+  ]
+}

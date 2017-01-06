@@ -1,0 +1,46 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "",
+  "author": "",
+  "date": "",
+  "desc": "",
+  "cover": "",
+  "online": "",
+  "download": "",
+  "keyword": [],
+  "song": [
+    {
+      "type": "",
+      "name": "",
+      "singer": "",
+      "desc": "",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "",
+      "name": "",
+      "singer": "",
+      "desc": "",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ]
+}

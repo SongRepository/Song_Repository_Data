@@ -1,0 +1,94 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "欢迎加入NHK",
+  "author": "泷本龙彦",
+  "date": "2006",
+  "desc": "家里蹲",
+  "cover": "github+WelcomeToNHK-cover.jpg",
+  "keyword": [
+    "欢迎加入NHK"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "パズル",
+      "singer": "ROUND TABLE feat.Nino",
+      "desc": "片头曲（OP）",
+      "cover": "github+WelcomeToNHK-song5.jpg",
+      "album": "パズル",
+      "audio": {
+        "xiami": "3384380",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "踊る赤ちゃん人間",
+      "singer": "大槻ケンヂ",
+      "desc": "第1话～第12话片尾曲（ED）",
+      "cover": "github+WelcomeToNHK-song4.jpg",
+      "album": "踊る赤ちゃん人間",
+      "audio": {
+        "xiami": "3510718",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "もどかしい世界の上で",
+      "singer": "牧野由依",
+      "desc": "第13话～第24话片尾曲（ED）",
+      "cover": "github+WelcomeToNHK-song3.jpg",
+      "album": "もどかしい世界の上で",
+      "audio": {
+        "xiami": "",
+        "douban": "776107gf7c8",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ふしぎ・プルプル・プルリン・リン!",
+      "singer": "宍戸留美",
+      "desc": "插入曲",
+      "cover": "github+WelcomeToNHK-song2.jpg",
+      "album": "テレビアニメーション「N・H・Kにようこそ!」サウンドコレクション サニーサイドにようこそ!",
+      "audio": {
+        "xiami": "3522358",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ダークサイドについてきて",
+      "singer": "牧野由依",
+      "desc": "插入曲",
+      "cover": "github+WelcomeToNHK-song.jpg",
+      "album": "テレビアニメーション「N・H・Kにようこそ!」O.S.T.ダークサイドにようこそ!",
+      "audio": {
+        "xiami": "3522335",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ]
+}
