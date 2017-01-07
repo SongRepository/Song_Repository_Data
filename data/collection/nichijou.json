@@ -284,5 +284,59 @@
         "bilibili": ""
       }
     }
+  ,
+    {
+      "type": "ost",
+      "name": "ヒャダル子のカカカタ☆カタオモイ-F",
+      "singer": "ヒャダイン（前山田健一）/ 佐咲紗花",
+      "desc": "",
+      "cover": "github+nichijou-song.jpg",
+      "album": "ヒャダインのカカカタ☆カタオモイ-C",
+      "audio": {
+        "local": "前山田健一,Sasaki Sayaka - ヒャダル子のカカカタ☆カタオモイ-F",
+        "xiami": "1770148690",
+        "douban": "1802901gbfc4",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+    ,
+    {
+      "type": "ost",
+      "name": "Choose me feat.佐咲紗花",
+      "singer": "ヒャダイン（前山田健一）/ 佐咲紗花",
+      "desc": "",
+      "cover": "github+nichijou-song.jpg",
+      "album": "ヒャダインのカカカタ☆カタオモイ-C",
+      "audio": {
+        "local": "ヒャダイン,佐咲紗花 - Choose me",
+        "xiami": "",
+        "douban": "1802900g06a6",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
+  ,
+    {
+      "type": "ost",
+      "name": "ゆっこはほんとにバカだなあ",
+      "singer": "相沢舞",
+      "desc": "",
+      "cover": "github+nichijou-song5.png",
+      "album": "みおのカプってカプって萌えちぎれ",
+      "audio": {
+        "local": "相沢舞 - ゆっこはほんとにバカだなあ",
+        "xiami": "1770407798",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    }
   ]
 }
