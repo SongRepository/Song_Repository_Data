@@ -1,0 +1,50 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "半田君传说",
+  "author": "吉野五月",
+  "date": "2016",
+  "desc": "《元气囝仔》的派生作品，连载于期刊《月刊少年GANGAN》，讲述了半田清舟高中时期的青春故事。",
+  "cover": "github+Handa-kun-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["半田君传说", "半田清舟"],
+  "song": [
+    {
+      "type": "op",
+      "name": "The LiBERTY",
+      "singer": "Fo'xTails",
+      "desc": "OP",
+      "cover": "github+Handa-kun-Song.jpg",
+      "album": "The LiBERTY",
+      "audio": {
+        "local": "Fo'xTails - The LiBERTY",
+        "xiami": "1776304031",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "HIDE-AND-SEEK",
+      "singer": "铃村健一",
+      "desc": "ED",
+      "cover": "github+Handa-kun-Song.jpg",
+      "album": "HIDE-AND-SEEK",
+      "audio": {
+        "local": "鈴村健一 - HIDE-AND-SEEK",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
