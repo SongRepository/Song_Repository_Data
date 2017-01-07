@@ -1,0 +1,286 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "名侦探柯南-剧场版主题曲",
+  "author": "青山刚昌",
+  "date": "1996",
+  "desc": "名侦探柯南-剧场版主题曲",
+  "cover": "github+Detective-Conan-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "名侦探柯南",
+    "Detective Conan"
+  ],
+  "song": [
+    {
+      "type": "ost",
+      "name": "Happy Birthday ",
+      "singer": "杏子",
+      "desc": "剧场版1：计时引爆摩天楼",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "杏子 - Happy Birthday",
+        "xiami": "1770032389",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "少女の頃に戻ったみたいに ",
+      "singer": "ZARD",
+      "desc": "剧场版2：第14个目标",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "Zard - 少女の頃に戻ったみたいに",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ONE",
+      "singer": "B'z",
+      "desc": "剧场版3：世纪末的魔术师",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "B'z - ONE",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "あなたがいるから",
+      "singer": "小松未步",
+      "desc": "剧场版4：瞳孔中的暗杀者",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "小松未歩 - あなたがいるから",
+        "xiami": "1769101230",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "always",
+      "singer": "倉木麻衣",
+      "desc": "剧场版5：通往天国的倒计时",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "倉木麻衣 - always",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Everlasting",
+      "singer": "B'z",
+      "desc": "剧场版6：贝克街的亡灵",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "B'z - Everlasting",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Time after time～花舞う街で～",
+      "singer": "倉木麻衣",
+      "desc": "剧场版7：迷宫的十字路",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "倉木麻衣 - Time after time〜花舞う街で〜",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Dream×Dream",
+      "singer": "愛内里菜",
+      "desc": "剧场版8：银翼的魔术师",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "愛内里菜 - Dream × Dream",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "夏を待つセイル(帆)のように",
+      "singer": "ZARD",
+      "desc": "剧场版9：水平线上的阴谋",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "Zard - 夏を待つセイル(帆)のように",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ゆるぎないものひとつ",
+      "singer": "B'z",
+      "desc": "剧场版10：侦探们的镇魂歌",
+      "cover": "github+Detective-Conan-The-Movie-Themes-Collection.jpg",
+      "album": "The Best of Detective Conan (The Movie Themes Collection)",
+      "audio": {
+        "local": "B'z - ゆるぎないものひとつ",
+        "xiami": "",
+        "douban": "680409gd162",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "七つの海を渡る風のように",
+      "singer": "三枝夕夏 IN db / 愛内里菜",
+      "desc": "剧场版11：绀碧之棺",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
+      "audio": {
+        "local": "",
+        "xiami": "",
+        "douban": "231357g5845",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "翼を広げて",
+      "singer": "ZARD",
+      "desc": "剧场版12：战栗的乐谱",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
+      "audio": {
+        "local": "",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "PUZZLEMV",
+      "singer": "倉木麻衣",
+      "desc": "剧场版13：漆黑的追踪者",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
+      "audio": {
+        "local": "",
+        "xiami": "1770711951",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Over Drive",
+      "singer": "GARNET CROW",
+      "desc": "剧场版14：天空的遇难船",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
+      "audio": {
+        "local": "",
+        "xiami": "1770711950",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "",
+      "name": "",
+      "singer": "",
+      "desc": "",
+      "cover": "",
+      "album": "",
+      "audio": {
+        "local": "",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}

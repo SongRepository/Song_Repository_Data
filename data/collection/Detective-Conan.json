@@ -18,11 +18,11 @@
       "name": "胸がドキドキ",
       "singer": "THE HIGH-LOWS",
       "desc": "OP 1-30",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
+      "album": "名探偵コナン主題歌集",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "↑THE HIGH-LOWS↓ - 胸がドキドキ",
+        "xiami": "1769973719",
         "douban": "63334geeea",
         "netease": ""
       },
@@ -35,11 +35,11 @@
       "name": "STEP BY STEP",
       "singer": "ZIGGY",
       "desc": "ED 1-25",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
+      "album": "名探偵コナン主題歌集",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "ZIGGY - STEP BY STEP",
+        "xiami": "1769973721",
         "douban": "1902038g2328",
         "netease": ""
       },
@@ -52,11 +52,11 @@
       "name": "Feel Your Heart",
       "singer": "VELVET GARDEN",
       "desc": "OP 31-52",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
+      "album": "名探偵コナン主題歌集",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Velvet Garden - Feel Your Heart (TV OPENING EDIT)",
+        "xiami": "1769973723",
         "douban": "",
         "netease": ""
       },
@@ -69,11 +69,11 @@
       "name": "迷宫のラヴァーズ",
       "singer": "heath",
       "desc": "ED 26-51",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
+      "album": "名探偵コナン主題歌集",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "森江博 - 迷宮のラヴァーズ",
+        "xiami": "1769973724",
         "douban": "",
         "netease": ""
       },
@@ -83,15 +83,15 @@
     },
     {
       "type": "op",
-      "name": "谜",
+      "name": "謎",
       "singer": "小松未步",
       "desc": "OP 53-96",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "小松未歩 - 谜",
         "xiami": "1769101215",
-        "douban": "",
+        "douban": "345382gb01a",
         "netease": ""
       },
       "video": {
@@ -104,10 +104,10 @@
       "singer": "宇德敬子",
       "desc": "ED 52-70",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "宇徳敬子 - 光と影のロマン",
+        "xiami": "1769569197",
         "douban": "",
         "netease": ""
       },
@@ -121,10 +121,10 @@
       "singer": "DEEN",
       "desc": "ED 71-83",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "DEEN - 君がいない夏",
+        "xiami": "3446953",
         "douban": "433432gbfec",
         "netease": ""
       },
@@ -138,9 +138,9 @@
       "singer": "ZARD",
       "desc": "OP 97-123",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "Zard - 運命のルーレット廻して",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -151,15 +151,15 @@
     },
     {
       "type": "ed",
-      "name": "愿い事ひとつだけ",
+      "name": "願い事ひとつだけ",
       "singer": "小松未步",
       "desc": "ED 84-108",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "小松未歩 - 願い事ひとつだけ",
         "xiami": "1769101222",
-        "douban": "",
+        "douban": "345400gb9f4",
         "netease": ""
       },
       "video": {
@@ -172,9 +172,9 @@
       "singer": "小松未步",
       "desc": "ED 109-131",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "小松未歩 - 氷の上に立つように",
         "xiami": "1769101223",
         "douban": "",
         "netease": ""
@@ -185,14 +185,14 @@
     },
     {
       "type": "op",
-      "name": "TRUTH",
+      "name": "TRUTH~A Great Detective of Love",
       "singer": "TWO-MIX",
       "desc": "OP 124-142",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
+      "album": "TRUTH~A Great Detective of Love",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "TWO-MIX - TRUTH~A Great Detective of Love",
+        "xiami": "1769401486",
         "douban": "",
         "netease": ""
       },
@@ -206,10 +206,10 @@
       "singer": "rumania montevideo",
       "desc": "ED 132-152",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "rumania montevideo - Still for your love",
+        "xiami": "1769455950",
         "douban": "",
         "netease": ""
       },
@@ -223,9 +223,9 @@
       "singer": "B'z",
       "desc": "OP 143-167",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "B’z - ギリギリchop",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -240,9 +240,9 @@
       "singer": "WAG",
       "desc": "ED 153-179",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "WAG - Free Magic",
         "xiami": "1769101225",
         "douban": "",
         "netease": ""
@@ -257,10 +257,10 @@
       "singer": "GARNET CROW",
       "desc": "OP 168-204",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - Mysterious Eyes",
+        "xiami": "1776091548",
         "douban": "",
         "netease": ""
       },
@@ -271,13 +271,13 @@
     {
       "type": "ed",
       "name": "Secret of my heart",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 180-204",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "倉木麻衣 - Secret of my heart",
+        "xiami": "3621699",
         "douban": "",
         "netease": ""
       },
@@ -291,9 +291,9 @@
       "singer": "爱内里菜",
       "desc": "OP 205-230",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
+        "local": "愛内里菜 - 恋はスリル,ショック,サスペンス",
         "xiami": "",
         "douban": "1559470gbcca",
         "netease": ""
@@ -308,11 +308,11 @@
       "singer": "GARNET CROW",
       "desc": "ED 205-218",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
+      "album": "THE BEST OF DETECTIVE CONAN  ~名探偵コナン テーマ曲集~",
       "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
+        "local": "GARNET CROW - 夏の幻",
+        "xiami": "1776091556",
+        "douban": "416429gdefe",
         "netease": ""
       },
       "video": {
@@ -322,13 +322,13 @@
     {
       "type": "ed",
       "name": "Start in my life",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 219-232",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "倉木麻衣 - Start in my life",
+        "xiami": "359416",
         "douban": "",
         "netease": ""
       },
@@ -342,9 +342,9 @@
       "singer": "松桥未树",
       "desc": "OP 231-258",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "松橋未樹 - destiny",
         "xiami": "1769101168",
         "douban": "",
         "netease": ""
@@ -356,14 +356,14 @@
     {
       "type": "ed",
       "name": "always",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 233-247",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - always",
         "xiami": "",
-        "douban": "",
+        "douban": "1092396g0e65",
         "netease": ""
       },
       "video": {
@@ -373,14 +373,14 @@
     {
       "type": "op",
       "name": "Winter Bells",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 259-270",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - Winter Bells",
         "xiami": "",
-        "douban": "",
+        "douban": "500381g5eba",
         "netease": ""
       },
       "video": {
@@ -393,9 +393,9 @@
       "singer": "上原杏美",
       "desc": "ED 248-265",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "上原あずみ - 青い青いこの地球に",
         "xiami": "1769101174",
         "douban": "",
         "netease": ""
@@ -407,12 +407,12 @@
     {
       "type": "op",
       "name": "I can't stop my love for you",
-      "singer": "爱内里菜",
+      "singer": "愛内里菜",
       "desc": "OP 271-305",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "愛内里菜 - I can't stop my love for you",
         "xiami": "",
         "douban": "1537374gf756",
         "netease": ""
@@ -427,10 +427,10 @@
       "singer": "GARNET CROW",
       "desc": "ED 266-287",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - 夢みたあとで",
+        "xiami": "1776091566",
         "douban": "",
         "netease": ""
       },
@@ -444,9 +444,9 @@
       "singer": "上原杏美",
       "desc": "ED 288-299",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "上原あずみ - 無色",
         "xiami": "1769101176",
         "douban": "",
         "netease": ""
@@ -461,11 +461,11 @@
       "singer": "稻叶浩志",
       "desc": "ED 300-306",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "稲葉浩志 - Overture",
         "xiami": "",
-        "douban": "",
+        "douban": "1828005g8932",
         "netease": ""
       },
       "video": {
@@ -475,13 +475,13 @@
     {
       "type": "op",
       "name": "風のららら",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 306-332",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "倉木麻衣 - 风のららら",
+        "xiami": "359374",
         "douban": "",
         "netease": ""
       },
@@ -495,10 +495,10 @@
       "singer": "ZARD",
       "desc": "ED 307-328",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "ZARD - 明日を夢見て",
+        "xiami": "1775623776",
         "douban": "",
         "netease": ""
       },
@@ -512,9 +512,9 @@
       "singer": "三枝夕夏 IN db",
       "desc": "OP 333-355",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
+        "local": "三枝夕夏IN db - 君と約束した優しいあの場所まで",
         "xiami": "1769101172",
         "douban": "360788g3cb3",
         "netease": ""
@@ -529,11 +529,11 @@
       "singer": "GARNET CROW",
       "desc": "ED 329-349",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
+      "album": "THE BEST OF DETECTIVE CONAN 2 ~名探偵コナン テーマ曲集2~",
       "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
+        "local": "GARNET CROW - 君という光",
+        "xiami": "1776091574",
+        "douban": "549713g0780",
         "netease": ""
       },
       "video": {
@@ -548,7 +548,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "愛内里菜 - START",
         "xiami": "",
         "douban": "35249gaa8a",
         "netease": ""
@@ -565,8 +565,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "三枝夕夏 IN db - 眠る君の横顔に微笑みを",
+        "xiami": "3455884",
         "douban": "",
         "netease": ""
       },
@@ -582,8 +582,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - 忘れ咲き",
+        "xiami": "1776091580",
         "douban": "1131777g0cf2",
         "netease": ""
       },
@@ -599,7 +599,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "Zard - 星のかがやきよ(394话~オープニング)",
         "xiami": "",
         "douban": "10243gd907",
         "netease": ""
@@ -616,8 +616,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "三枝夕夏 IN db - ジューンブライド 〜あなたしか見えない〜",
+        "xiami": "3446613",
         "douban": "",
         "netease": ""
       },
@@ -633,7 +633,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "竹井詩織里 - 世界 止めて",
         "xiami": "",
         "douban": "579765g201d",
         "netease": ""
@@ -645,12 +645,12 @@
     {
       "type": "op",
       "name": "Growing of my heart",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 415-424",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - Growing of my heart",
         "xiami": "",
         "douban": "1130784g4457",
         "netease": ""
@@ -667,8 +667,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "岩田さゆり - Thank You For Everything",
+        "xiami": "1769032954",
         "douban": "1129875g75a4",
         "netease": ""
       },
@@ -684,7 +684,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "B'z - 衝動",
         "xiami": "",
         "douban": "1129682g887a",
         "netease": ""
@@ -701,7 +701,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "ZARD - 悲しいほど貴方が好き",
         "xiami": "",
         "douban": "1129558g1b66",
         "netease": ""
@@ -718,7 +718,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "三枝夕夏 IN db,愛内里菜 - 100もの扉",
         "xiami": "",
         "douban": "1129220g8512",
         "netease": ""
@@ -735,7 +735,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "上木彩矢 - もう君だけを離したりはしない",
         "xiami": "",
         "douban": "1132093g4839",
         "netease": ""
@@ -752,7 +752,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "三枝夕夏 IN db - 雲に乗って",
         "xiami": "3475810",
         "douban": "1132039gad86",
         "netease": ""
@@ -764,12 +764,12 @@
     {
       "type": "ed",
       "name": "白い雪",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 459-470",
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - 白い雪",
         "xiami": "",
         "douban": "129709g24d9",
         "netease": ""
@@ -786,8 +786,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - 涙のイエスタデー",
+        "xiami": "1772239147",
         "douban": "1129766g5267",
         "netease": ""
       },
@@ -803,7 +803,7 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
+        "local": "滴草由実 - I still believe 〜ため息〜",
         "xiami": "3230734",
         "douban": "420059g4f14",
         "netease": ""
@@ -820,8 +820,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Zard - グロリアス マインド",
+        "xiami": "1775623854",
         "douban": "1133896gfa4b",
         "netease": ""
       },
@@ -837,8 +837,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - 世界はまわると言うけれど",
+        "xiami": "1776091600",
         "douban": "1131842g84a7",
         "netease": ""
       },
@@ -854,8 +854,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "ZARD - 愛は暗闇の中で",
+        "xiami": "1775623780",
         "douban": "1130596ge9f2",
         "netease": ""
       },
@@ -871,8 +871,8 @@
       "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
       "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "三枝夕夏 IN db - 雪どけのあの川の流れのように",
+        "xiami": "3455789",
         "douban": "1132114g0049",
         "netease": ""
       },
@@ -883,14 +883,14 @@
     {
       "type": "op",
       "name": "一秒ごとに Love for you",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 505-514",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - 一秒ごとにLove for you",
         "xiami": "",
-        "douban": "",
+        "douban": "32905gd652",
         "netease": ""
       },
       "video": {
@@ -902,11 +902,11 @@
       "name": "Summer Memories",
       "singer": "上木彩矢",
       "desc": "ED 505-514",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "上木彩矢 - Summer Memories",
+        "xiami": "1769313227",
         "douban": "",
         "netease": ""
       },
@@ -919,11 +919,11 @@
       "name": "Mysterious",
       "singer": "Naifu",
       "desc": "OP 515-520",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Naifu - Mysterious",
+        "xiami": "1770711953",
         "douban": "",
         "netease": ""
       },
@@ -936,11 +936,11 @@
       "name": "GO YOUR OWN WAY",
       "singer": "滴草由实",
       "desc": "ED 515-520",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "滴草由実 - GO YOUR OWN WAY",
+        "xiami": "1770711961",
         "douban": "",
         "netease": ""
       },
@@ -951,14 +951,14 @@
     {
       "type": "op",
       "name": "Revive",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 521-529",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
+        "local": "倉木麻衣 - Revive",
+        "xiami": "1770711954",
+        "douban": "1476692geffe",
         "netease": ""
       },
       "video": {
@@ -970,11 +970,11 @@
       "name": "恋心 辉きながら",
       "singer": "Naifu",
       "desc": "ED 521-529",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Naifu - 恋心 辉きながら",
+        "xiami": "1770711962",
         "douban": "",
         "netease": ""
       },
@@ -987,10 +987,10 @@
       "name": "Everlasting Luv",
       "singer": "BREAKERZ",
       "desc": "OP 530-546",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "BREAKERZ - Everlasting Luv",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1004,11 +1004,11 @@
       "name": "Doing all right",
       "singer": "GARNET CROW",
       "desc": "ED 530-539",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - Doing all right",
+        "xiami": "1776091606",
         "douban": "",
         "netease": ""
       },
@@ -1021,10 +1021,10 @@
       "name": "MAGIC",
       "singer": "爱内里菜",
       "desc": "OP 547-564",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "愛内里菜 - MAGIC",
         "xiami": "",
         "douban": "1537381gcec4",
         "netease": ""
@@ -1038,12 +1038,12 @@
       "name": "光",
       "singer": "BREAKERZ",
       "desc": "ED 540-561",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "BREAKERZ - 光",
         "xiami": "",
-        "douban": "",
+        "douban": "1536004g0ecd",
         "netease": ""
       },
       "video": {
@@ -1055,10 +1055,10 @@
       "name": "As the Dew",
       "singer": "GARNET CROW",
       "desc": "OP 565-582",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "GARNET CROW - As the Dew",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1072,11 +1072,11 @@
       "name": "Hello Mr.my yesterday",
       "singer": "Hundred Percent Free",
       "desc": "ED 562-587",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Hundred Percent Free - Hello Mr.my yesterday",
+        "xiami": "1770041810",
         "douban": "",
         "netease": ""
       },
@@ -1087,12 +1087,12 @@
     {
       "type": "op",
       "name": "Summer Time Gone",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 583-601",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - SUMMER TIME GONE",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1104,14 +1104,14 @@
     {
       "type": "ed",
       "name": "Tomorrow is the last Time",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 588-601",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - Tomorrow is the last Time",
         "xiami": "",
-        "douban": "",
+        "douban": "1641388gb0a3",
         "netease": ""
       },
       "video": {
@@ -1123,11 +1123,11 @@
       "name": "tear drops",
       "singer": "Caos Caos Caos",
       "desc": "OP 602-612",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Caos Caos Caos - tear drops",
+        "xiami": "1770711959",
         "douban": "",
         "netease": ""
       },
@@ -1137,14 +1137,14 @@
     },
     {
       "type": "ed",
-      "name": "十五夜クライシス ～君に逢いたい～",
+      "name": "十五夜クライシス 〜君に逢いたい〜",
       "singer": "Hundred Percent Free",
       "desc": "ED 602-609",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "Hundred Percent Free - 十五夜クライシス~君に逢いたい~",
+        "xiami": "1770711967",
         "douban": "",
         "netease": ""
       },
@@ -1157,12 +1157,12 @@
       "name": "Don't Wanna Lie",
       "singer": "B'z",
       "desc": "OP 613-626",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "B'z - Don't Wanna Lie",
         "xiami": "",
-        "douban": "",
+        "douban": "1881313g34d2",
         "netease": ""
       },
       "video": {
@@ -1174,10 +1174,10 @@
       "name": "月夜の悪戯の魔法",
       "singer": "BREAKERZ",
       "desc": "ED 610-626",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-4.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 4 ~名探偵コナン テーマ曲集4~",
       "audio": {
-        "local": "",
+        "local": "BREAKERZ - 月夜の悪戯の魔法",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1191,11 +1191,11 @@
       "name": "Misty Mystery",
       "singer": "GARNET CROW",
       "desc": "OP 627-641",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "GARNET CROW - Misty Mystery",
+        "xiami": "1776091614",
         "douban": "",
         "netease": ""
       },
@@ -1208,10 +1208,10 @@
       "name": "ピルグリム",
       "singer": "B'z",
       "desc": "ED 627-628",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "B'z - ピルグリム",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1223,13 +1223,13 @@
     {
       "type": "ed",
       "name": "Your Best Friend",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 629-643",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "倉木麻衣 - Your Best Friend",
+        "xiami": "1773493590",
         "douban": "",
         "netease": ""
       },
@@ -1242,12 +1242,12 @@
       "name": "Miss Mystery",
       "singer": "BREAKERZ",
       "desc": "OP 642-666",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "BREAKERZ - Miss Mystery",
         "xiami": "",
-        "douban": "",
+        "douban": "1885225g0e65",
         "netease": ""
       },
       "video": {
@@ -1256,14 +1256,14 @@
     },
     {
       "type": "ed",
-      "name": "悲しいほど 今日の夕阳 きれいだね",
+      "name": "悲しいほど 今日の夕陽 きれいだね",
       "singer": "grram",
       "desc": "ED 644-653",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "grram - 悲しいほど 今日の夕陽 きれいだね",
+        "xiami": "1773629935",
         "douban": "",
         "netease": ""
       },
@@ -1276,10 +1276,10 @@
       "name": "オーバーライト",
       "singer": "BREAKERZ",
       "desc": "ED 654-666",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "BREAKERZ - オーバーライト",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1293,11 +1293,11 @@
       "name": "君の涙にこんなに恋してる",
       "singer": "なついろ",
       "desc": "OP 667-680",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "なついろ - 君の涙にこんなに恋してる",
+        "xiami": "1773629926",
         "douban": "",
         "netease": ""
       },
@@ -1308,14 +1308,14 @@
     {
       "type": "ed",
       "name": "恋に恋して",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 667-686",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - 恋に恋して",
         "xiami": "",
-        "douban": "",
+        "douban": "1903337g4fbe",
         "netease": ""
       },
       "video": {
@@ -1325,13 +1325,13 @@
     {
       "type": "op",
       "name": "Try again",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 681-695",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "倉木麻衣 - TRY AGAIN",
+        "xiami": "1773629925",
         "douban": "",
         "netease": ""
       },
@@ -1344,11 +1344,11 @@
       "name": "瞳のメロディ",
       "singer": "BOYFRIEND",
       "desc": "ED 687-704",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "BOYFRIEND - 瞳のメロディ",
+        "xiami": "1773629932",
         "douban": "",
         "netease": ""
       },
@@ -1361,12 +1361,12 @@
       "name": "Q&A",
       "singer": "B'z",
       "desc": "OP 696-717",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "B'z - Q&A",
         "xiami": "",
-        "douban": "",
+        "douban": "1930187g7af4",
         "netease": ""
       },
       "video": {
@@ -1375,14 +1375,14 @@
     },
     {
       "type": "ed",
-      "name": "君の笑颜がなによりも好きだった",
+      "name": "君の笑顔がなによりも好きだった",
       "singer": "Chicago Poodle",
       "desc": "ED 705-721",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "CHICAGO POODLE - 君の笑顔がなによりも好きだった",
+        "xiami": "1773593283",
         "douban": "",
         "netease": ""
       },
@@ -1395,10 +1395,10 @@
       "name": "Butterfly Core",
       "singer": "VALSHE",
       "desc": "OP 718-743",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "VALSHE - Butterfly Core",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1412,10 +1412,10 @@
       "name": "いま逢いたくて…",
       "singer": "DAIGO",
       "desc": "ED 722-736",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
+        "local": "DAIGO - いま逢いたくて…",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1429,11 +1429,11 @@
       "name": "Greed",
       "singer": "KNOCK OUT MONKEY",
       "desc": "OP 744-756",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "KNOCK OUT MONKEY - Greed",
+        "xiami": "1773684687",
         "douban": "",
         "netease": ""
       },
@@ -1446,11 +1446,11 @@
       "name": "RAIN MAN",
       "singer": "AKIHIDE",
       "desc": "ED 737-749",
-      "cover": "",
-      "album": "",
+      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-5.jpg",
+      "album": "THE BEST OF DETECTIVE CONAN 5 ~名探偵コナン テーマ曲集5~",
       "audio": {
-        "local": "",
-        "xiami": "",
+        "local": "AKIHIDE - RAIN MAN",
+        "xiami": "1772924342",
         "douban": "",
         "netease": ""
       },
@@ -1461,12 +1461,12 @@
     {
       "type": "op",
       "name": "DYNAMITE",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "OP 757-773",
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - DYNAMITE",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1478,12 +1478,12 @@
     {
       "type": "ed",
       "name": "无敌なハート",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 750-762",
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - 無敵なハート",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1500,7 +1500,7 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "BREAKERZ - WE GO",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1517,7 +1517,7 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "La PomPon - 謎",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1534,7 +1534,7 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "VALSHE - 君への嘘",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1551,7 +1551,7 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "稲葉浩志 - 羽",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1568,9 +1568,9 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "La PomPon - 運命のルーレット廻して",
         "xiami": "",
-        "douban": "",
+        "douban": "678487g3a13",
         "netease": ""
       },
       "video": {
@@ -1585,7 +1585,7 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "B'z - 世界はあなたの色になる",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1602,7 +1602,7 @@
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "焚吐 - ふたりの秒針",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1614,12 +1614,12 @@
     {
       "type": "ed",
       "name": "SAWAGE☆LIFE",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 827-842",
       "cover": "",
       "album": "",
       "audio": {
-        "local": "",
+        "local": "倉木麻衣 - SAWAGE☆LIFE",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -1648,7 +1648,7 @@
     {
       "type": "ed",
       "name": "YESTERDAY LOVE",
-      "singer": "仓木麻衣",
+      "singer": "倉木麻衣",
       "desc": "ED 843-",
       "cover": "",
       "album": "",
@@ -1659,456 +1659,6 @@
         "netease": ""
       },
       "video": {
-        "bilibili": ""
-      }
-    },
-
-
-
-    {
-      "type": "ost",
-      "name": "少女の頃に戻ったみたいに ",
-      "singer": "ZARD",
-      "desc": "剧场版2主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "ONE",
-      "singer": "B'z",
-      "desc": "剧场版2主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "あなたがいるから",
-      "singer": "小松未步",
-      "desc": "剧场版4主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-1.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集~",
-      "audio": {
-        "local": "",
-        "xiami": "1769101230",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-
-    {
-      "type": "ost",
-      "name": "always",
-      "singer": "仓木麻衣",
-      "desc": "剧场版5主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "Everlasting",
-      "singer": "B'z",
-      "desc": "剧场版6主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "Time after time～花舞う街で～",
-      "singer": "仓木麻衣",
-      "desc": "剧场版7主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-2.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集2~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "Dream×Dream",
-      "singer": "愛内里菜",
-      "desc": "剧场版8主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "夏を待つセイル(帆)のように",
-      "singer": "ZARD",
-      "desc": "剧场版9主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "ost",
-      "name": "ゆるぎないものひとつ",
-      "singer": "B'z",
-      "desc": "剧场版10主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "680409gd162",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "ost",
-      "name": "七つの海を渡る風のように",
-      "singer": "三枝夕夏 IN db / 愛内里菜",
-      "desc": "剧场版11主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "231357g5845",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-
-    {
-      "type": "ost",
-      "name": "翼を広げて",
-      "singer": "ZARD",
-      "desc": "剧场版12主题曲",
-      "cover": "github+Detective-Conan-THE-BEST-OF-DETECTIVE-CONAN-3.jpg",
-      "album": "THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-
-
-
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
         "bilibili": ""
       }
     }

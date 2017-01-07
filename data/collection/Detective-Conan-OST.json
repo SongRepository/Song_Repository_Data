@@ -1,0 +1,53 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "名侦探柯南-OST",
+  "author": "青山刚昌",
+  "date": "1996",
+  "desc": "名侦探柯南-OST",
+  "cover": "github+Detective-Conan-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "名侦探柯南",
+    "Detective Conan"
+  ],
+  "song": [
+    {
+      "type": "ost",
+      "name": "そばにいるから",
+      "singer": "↑THE HIGH-LOWS↓",
+      "desc": "挿入歌",
+      "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
+      "album": "名探偵コナン主題歌集",
+      "audio": {
+        "local": "",
+        "xiami": "1769973720",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "HAPPY END",
+      "singer": "ZIGGY",
+      "desc": "挿入歌",
+      "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
+      "album": "名探偵コナン主題歌集",
+      "audio": {
+        "local": "",
+        "xiami": "1769973722",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
