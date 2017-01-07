@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "在下坂本，有何贵干？",
+  "author": "佐野菜见",
+  "date": "2016",
+  "desc": "连当个值日生也能酷到迷死人，县立学文高中一年二班。这里，有个一入学就引起瞩目的学生，名叫坂本。其举手投足都蕴含着一股酷劲，不对，根本酷过头了。因为成为校园焦点，眼前出现了各项威胁。  坂本最新潮、最流行的校园生活，自此揭幕。",
+  "cover": "github+Sakamoto-desu-ga-Cover.jpeg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "在下坂本，有何贵干？"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "COOLEST",
+      "singer": "Customi Z",
+      "desc": "OP",
+      "cover": "github+Sakamoto-desu-ga-Song.jpg",
+      "album": "COOLEST",
+      "audio": {
+        "local": "カスタマイZ - COOLEST",
+        "xiami": "",
+        "douban": "2616359g3ec3",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "无くした日々にさよなら",
+      "singer": "スネオヘアー",
+      "desc": "ED",
+      "cover": "github+Sakamoto-desu-ga-Song.jpg",
+      "album": "「0」",
+      "audio": {
+        "local": "スネオヘアー - 無くした日々にさよなら",
+        "xiami": "1775882412",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}

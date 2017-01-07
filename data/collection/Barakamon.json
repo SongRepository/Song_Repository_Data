@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "元气囝仔",
+  "author": "吉野五月",
+  "date": "2014",
+  "desc": "《元气囝仔》 是由日本漫画家吉野五月创作的漫画。该作以长崎县五岛列岛为舞台，描写在城市长大的帅哥书法家半田清舟，在移居小岛后与岛上的人们之间的往来日常。",
+  "cover": "github+Barakamon-Cover2.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "元气囝仔"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "らしさ",
+      "singer": "SUPER BEAVER",
+      "desc": "OP",
+      "cover": "github+Barakamon-Cover.jpg",
+      "album": "らしさ",
+      "audio": {
+        "local": "SUPER BEAVER - らしさ",
+        "xiami": "1773400729",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Innocence",
+      "singer": "NoisyCell",
+      "desc": "ED",
+      "cover": "github+Barakamon-Cover.jpg",
+      "album": "Your Hands",
+      "audio": {
+        "local": "NoisyCell - Innocence",
+        "xiami": "1773404943",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}

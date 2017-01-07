@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "月刊少女野崎同学",
+  "author": "椿泉",
+  "date": "2014",
+  "desc": "电视动画《月刊少女野崎同学》改编自由日本漫画家椿泉原作的同名漫画。",
+  "cover": "github+Gekkan-Shoujo-Nozaki-kun-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "月刊少女野崎同学"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "君じゃなきゃダメみたい",
+      "singer": "オーイシマサヨシ",
+      "desc": "OP",
+      "cover": "github+Gekkan-Shoujo-Nozaki-kun-OP.jpg",
+      "album": "君じゃなきゃダメみたい",
+      "audio": {
+        "local": "大石昌良 - 君じゃなきゃダメみたい",
+        "xiami": "1773365206",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ウラオモテ·フォーチュン",
+      "singer": "佐仓千代（小泽亚李）",
+      "desc": "ED",
+      "cover": "github+Gekkan-Shoujo-Nozaki-kun-ED.jpg",
+      "album": "ウラオモテ·フォーチュン",
+      "audio": {
+        "local": "小澤亜李 - ウラオモテ・フォーチュン",
+        "xiami": "1773365271",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "青年怪医黑杰克",
+  "author": "改编",
+  "date": "2015",
+  "desc": "电视动画《青年怪医黑杰克》是由漫画之神手冢治虫的经典漫画《怪医黑杰克》改编的前传作品，讲述黑杰克学生时代的故事。",
+  "cover": "github+Young-Black-Jack-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["青年怪医黑杰克"],
+  "song": [
+    {
+      "type": "op",
+      "name": "I am Just Feeling Alive",
+      "singer": "UMI☆KUUN",
+      "desc": "OP",
+      "cover": "github+Young-Black-Jack-Song.jpg",
+      "album": "I am Just Feeling Alive",
+      "audio": {
+        "local": "UMI☆KUUN - I am Just Feeling Alive",
+        "xiami": "1774889402",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "オールカテゴライズ",
+      "singer": "焚吐",
+      "desc": "ED",
+      "cover": "github+Young-Black-Jack-Song.jpg",
+      "album": "オールカテゴライズ",
+      "audio": {
+        "local": "焚吐 - オールカテゴライズ",
+        "xiami": "1775302270",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}

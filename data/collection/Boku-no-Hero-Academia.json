@@ -1,0 +1,50 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "我的英雄学院",
+  "author": "堀越耕平",
+  "date": "2016",
+  "desc": "",
+  "cover": "github+Boku-no-Hero-Academia-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["我的英雄学院"],
+  "song": [
+    {
+      "type": "op",
+      "name": "THE DAY",
+      "singer": "色情涂鸦",
+      "desc": "OP",
+      "cover": "github+Boku-no-Hero-Academia-OP.jpg",
+      "album": "THE DAY",
+      "audio": {
+        "local": "ポルノグラフィティ - THE DAY",
+        "xiami": "1775968756",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "HEROES",
+      "singer": "Brian the Sun",
+      "desc": "ED",
+      "cover": "github+Boku-no-Hero-Academia-ED.jpg",
+      "album": "HEROES",
+      "audio": {
+        "local": "Brian the Sun - HEROES",
+        "xiami": "1776150293",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
