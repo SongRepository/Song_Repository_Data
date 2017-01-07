@@ -1,0 +1,107 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "龙与虎",
+  "author": "竹宫悠由子",
+  "date": "2008",
+  "desc": "",
+  "cover": "github+Tiger-X-Dragon-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "龙与虎",
+    "とらドラ!"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "プレパレード",
+      "singer": "逢坂大河、栉枝实乃梨、川嶋亚美（钉宫理惠、堀江由衣、喜多村英梨）",
+      "desc": "OP 2话～16话、OVA",
+      "cover": "github+Tiger-X-Dragon-OP1.jpg",
+      "album": "プレパレード",
+      "audio": {
+        "local": "釘宮理恵,堀江由衣,喜多村英梨 - プレパレード",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "バニラソルト",
+      "singer": "堀江由衣",
+      "desc": "ED 1话～16话、OVA",
+      "cover": "github+Tiger-X-Dragon-HAPPYEND.png",
+      "album": "√HAPPYEND",
+      "audio": {
+        "local": "堀江由衣 - バニラソルト",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "silky heart",
+      "singer": "堀江由衣",
+      "desc": "OP 17话～24话",
+      "cover": "github+Tiger-X-Dragon-HAPPYEND.png",
+      "album": "√HAPPYEND",
+      "audio": {
+        "local": "堀江由衣 - silky heart",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "オレンジ",
+      "singer": "逢坂大河、栉枝实乃梨、川嶋亚美（钉宫理惠、堀江由衣、喜多村英梨）",
+      "desc": "ED 17话～18话，20话～25话",
+      "cover": "github+Tiger-X-Dragon-ED2.jpg",
+      "album": "オレンジ",
+      "audio": {
+        "local": "釘宮理恵,堀江由衣,喜多村英梨 - オレンジ",
+        "xiami": "",
+        "douban": "1829184g88b9",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ホーリーナイト",
+      "singer": "逢坂大河・川嶋亚美（钉宫理惠・喜多村英梨）",
+      "desc": "插入曲 19话",
+      "cover": "github+Tiger-X-Dragon-Cover.jpg",
+      "album": "とらドラ! キャラクターソングアルバム",
+      "audio": {
+        "local": "釘宮理恵,喜多村英梨 - ホーリーナイト",
+        "xiami": "",
+        "douban": "1847681g420a",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
