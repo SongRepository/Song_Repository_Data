@@ -18,11 +18,13 @@
       "cover": "",
       "album": "",
       "audio": {
+        "local": "",
         "xiami": "",
         "douban": "",
         "netease": ""
       },
       "video": {
+        "local": "",
         "bilibili": ""
       }
     },
@@ -34,11 +36,13 @@
       "cover": "",
       "album": "",
       "audio": {
+        "local": "",
         "xiami": "",
         "douban": "",
         "netease": ""
       },
       "video": {
+        "local": "",
         "bilibili": ""
       }
     }

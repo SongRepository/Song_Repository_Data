@@ -17,11 +17,13 @@
       "cover": "",
       "album": "",  //  album name
       "audio": {
+        "local":"",   //  value: local song fileName << 閃光少女 - 東京事変 << 閃光少女 - 東京事変 .mp3
         "xiami": "",  //  value: song id << 1771386486 << www.xiami.com/song/1771386486
         "douban": "", //  value: song id << 1877557g4b29 << douban.fm/song/1877557g4b29
         "netease": "" //  value: song id << 26608788 << http://music.163.com/#/song?id=26608788
       },
       "video": {
+        "local" : "",
         "bilibili": ""  //
       }
     }
