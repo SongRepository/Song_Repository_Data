@@ -18,6 +18,7 @@
       "cover": "github+WelcomeToNHK-song5.jpg",
       "album": "パズル",
       "audio": {
+        "local": "ROUND TABLE - パズル",
         "xiami": "3384380",
         "douban": "",
         "netease": ""
@@ -34,6 +35,7 @@
       "cover": "github+WelcomeToNHK-song4.jpg",
       "album": "踊る赤ちゃん人間",
       "audio": {
+        "local": "パール兄弟 - 踊る赤ちゃん人间",
         "xiami": "3510718",
         "douban": "",
         "netease": ""
@@ -50,6 +52,7 @@
       "cover": "github+WelcomeToNHK-song3.jpg",
       "album": "もどかしい世界の上で",
       "audio": {
+        "local": "牧野由依 - もどかしい世界の上で",
         "xiami": "",
         "douban": "776107gf7c8",
         "netease": ""
@@ -66,6 +69,7 @@
       "cover": "github+WelcomeToNHK-song2.jpg",
       "album": "テレビアニメーション「N・H・Kにようこそ!」サウンドコレクション サニーサイドにようこそ!",
       "audio": {
+        "local": "ふしぎ・プルプル・プルリン・リン!-パール兄弟",
         "xiami": "3522358",
         "douban": "",
         "netease": ""
@@ -82,6 +86,7 @@
       "cover": "github+WelcomeToNHK-song.jpg",
       "album": "テレビアニメーション「N・H・Kにようこそ!」O.S.T.ダークサイドにようこそ!",
       "audio": {
+        "local": "Pearl Kyoudai - ダークサイドについてきて",
         "xiami": "3522335",
         "douban": "",
         "netease": ""
