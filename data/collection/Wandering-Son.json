@@ -1,0 +1,106 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "放浪息子",
+  "author": "志村貴子",
+  "date": "2011",
+  "desc": "描述的是“想要成为女生的”男孩×“想要成为男生的”女孩之间的生活恋爱故事。",
+  "cover": "github+Wandering-Son-Cover.JPG",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "放浪息子"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "いつだって。",
+      "singer": "ダイスケ",
+      "desc": "OP",
+      "cover": "github+Wandering-Son-Song.JPG",
+      "album": "いつだって。",
+      "audio": {
+        "local": "ダイスケ - いつだって",
+        "xiami": "",
+        "douban": "",
+        "netease": "409796"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "For You",
+      "singer": "Rie fu",
+      "desc": "ED",
+      "cover": "github+Wandering-Son-Song.JPG",
+      "album": "For You",
+      "audio": {
+        "local": "Rie fu - For You",
+        "xiami": "",
+        "douban": "",
+        "netease": "639976"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "One Bite",
+      "singer": "Rie fu",
+      "desc": "",
+      "cover": "github+Wandering-Son-Song.JPG",
+      "album": "For You",
+      "audio": {
+        "local": "Rie fu - One-Bite",
+        "xiami": "",
+        "douban": "",
+        "netease": "639983"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Come on Come on",
+      "singer": "Rie fu",
+      "desc": "",
+      "cover": "github+Wandering-Son-Song.JPG",
+      "album": "For You",
+      "audio": {
+        "local": "Rie fu - Come on Come on",
+        "xiami": "",
+        "douban": "",
+        "netease": "639980"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "めぐる季节",
+      "singer": "MONACA",
+      "desc": "",
+      "cover": "github+Wandering-Son-Song.JPG",
+      "album": "放浪息子 オリジナルサウンドトラック",
+      "audio": {
+        "local": "MONACA - めぐる季节",
+        "xiami": "",
+        "douban": "",
+        "netease": "4923716"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
