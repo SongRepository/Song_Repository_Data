@@ -1,0 +1,50 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "海月姬",
+  "author": "东村明子",
+  "date": "2010",
+  "desc": "主角仓下月海是一名梦想着成为插画家，并且非常喜欢水母的女孩。她为了梦想而来到东京，后入住了女生公寓“天水馆”，这里的住客大多是宅女，对她们来讲拥有时尚感的人就全是她们的敌人。一天，为了营救水母，月海遇到了一名超美的伪娘。于是发生在宅女、伪娘之间的故事就此展开。",
+  "cover": "github+Kuragehime-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["海月姬"],
+  "song": [
+    {
+      "type": "op",
+      "name": "ここだけの话",
+      "singer": "チャットモンチー",
+      "desc": "OP",
+      "cover": "github+Kuragehime-Song.jpg",
+      "album": "Awa Come",
+      "audio": {
+        "local": "チャットモンチー - ここだけの话",
+        "xiami": "",
+        "douban": "",
+        "netease": "22689107"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "きみのきれいに気づいておくれ",
+      "singer": "サンボマスター",
+      "desc": "ED",
+      "cover": "github+Kuragehime-Song.jpg",
+      "album": "きみのキレイに気づいておくれ",
+      "audio": {
+        "local": "サソボマスター - きみのキレイに気づいておくれ",
+        "xiami": "",
+        "douban": "",
+        "netease": "821790"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
