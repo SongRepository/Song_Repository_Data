@@ -1,0 +1,88 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "恋爱情结",
+  "author": "中原亚矢",
+  "date": "2007",
+  "desc": "身高172cm的高个女生小泉理沙，和身高156.2cm的可爱男生大谷敦士，从进入每户学园之后，就互相吐槽、彼此抬杠，是大家眼中的斗嘴好搭档。可是在高一那年的圣诞节，两人的关系却产生了微妙的变化。",
+  "cover": "github+Lovely-Complex-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "恋爱情结"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "キミ+ボク=LOVE?",
+      "singer": "テゴマス",
+      "desc": "OP 第1-13话",
+      "cover": "github+Lovely Complex-Song.jpg",
+      "album": "キッス～帰り道のラブソング～",
+      "audio": {
+        "local": "テゴマス - キミ+ボク=LOVE？",
+        "xiami": "",
+        "douban": "",
+        "netease": "838181"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },{
+      "type": "ed",
+      "name": "キッス~帰り道のラブソング~",
+      "singer": "テゴマス",
+      "desc": "ED 第1-13话",
+      "cover": "github+Lovely Complex-Song.jpg",
+      "album": "キッス~帰り道のラブソング~",
+      "audio": {
+        "local": "テゴマス - キッス~帰り道のラブソング~",
+        "xiami": "",
+        "douban": "",
+        "netease": "838177"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+
+    {
+      "type": "op",
+      "name": "Hey!Say!",
+      "singer": "Hey! Say! JUMP",
+      "desc": "OP 第14-24话",
+      "cover": "github+Lovely Complex-Song.jpg",
+      "album": "Hey!Say!",
+      "audio": {
+        "local": "Hey! Say! JUMP - Hey!Say!",
+        "xiami": "",
+        "douban": "",
+        "netease": "740332"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "BON BON",
+      "singer": "Hey! Say! JUMP",
+      "desc": "ED 第14-24话",
+      "cover": "github+Lovely Complex-Song.jpg",
+      "album": "Hey! Say!",
+      "audio": {
+        "local": "Hey! Say! JUMP - BON BON",
+        "xiami": "",
+        "douban": "",
+        "netease": "740336"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
