@@ -1,0 +1,86 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "血界戦線",
+  "author": "内藤泰弘",
+  "date": "2015",
+  "desc": "纽约崩坏后，一夜之间便架构成“赫尔沙雷姆兹·罗特”这个城市。在连系着异世界与现世界的这个魔都里，有个为了保持世界的平衡而在暗地里非常活跃的组织——秘密结社莱布拉！！少年雷欧在一连串的巧合下，加入莱布拉，他身上所隐藏的秘密将会对莱布拉造成什么影响…！？",
+  "cover": "github+Kekkai-Sensen-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["血界戦線"],
+  "song": [
+    {
+      "type": "op",
+      "name": "Hello,world!",
+      "singer": "BUMP OF CHICKEN",
+      "desc": "OP",
+      "cover": "github+Kekkai-Sensen-Song.png",
+      "album": "Hello,world! / コロニー",
+      "audio": {
+        "local": "BUMP OF CHICKEN - Hello,world!",
+        "xiami": "",
+        "douban": "2434261g46bc",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "シュガーソングとビターステップ",
+      "singer": "UNISON SQUARE GARDEN",
+      "desc": "ED",
+      "cover": "github+Kekkai-Sensen-Song.png",
+      "album": "シュガーソングとビターステップ",
+      "audio": {
+        "local": "UNISON SQUARE GARDEN - シュガーソングとビターステップ",
+        "xiami": "",
+        "douban": "2455481gb727",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "シグナルABC",
+      "singer": "UNISON SQUARE GARDEN",
+      "desc": "",
+      "cover": "github+Kekkai-Sensen-Song.png",
+      "album": "シュガーソングとビターステップ",
+      "audio": {
+        "local": "UNISON SQUARE GARDEN - シグナルABC",
+        "xiami": "",
+        "douban": "2455480gddd2",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "東京シナリオ",
+      "singer": "UNISON SQUARE GARDEN",
+      "desc": "",
+      "cover": "github+Kekkai-Sensen-Song.png",
+      "album": "シュガーソングとビターステップ",
+      "audio": {
+        "local": "UNISON SQUARE GARDEN - 東京シナリオ",
+        "xiami": "",
+        "douban": "2455482g0181",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
