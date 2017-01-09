@@ -1,0 +1,50 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "一起一起这里那里",
+  "author": "异识",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Acchi-Kocchi-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["一起一起这里那里"],
+  "song": [
+    {
+      "type": "op",
+      "name": "あっちでこっちで",
+      "singer": "大久保瑠美、冈本信彦、福原香织、生天目仁美、浅沼晋太郎",
+      "desc": "OP",
+      "cover": "github+Acchi-Kocchi-Song.jpg",
+      "album": "TVアニメ「あっちこっち」オープニングテーマ あっちでこっちで",
+      "audio": {
+        "local": "大久保瑠美,岡本信彦,福原香織 - あっちでこっちで",
+        "xiami": "",
+        "douban": "",
+        "netease": "28256219"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "手をギュしてね",
+      "singer": "大久保瑠美",
+      "desc": "ED",
+      "cover": "github+Acchi-Kocchi-Song.jpg",
+      "album": "TVアニメ「あっちこっち」エンディングテーマ 手をギュしてね",
+      "audio": {
+        "local": "大久保瑠美 - 手をギュしてね",
+        "xiami": "",
+        "douban": "",
+        "netease": "28256235"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
