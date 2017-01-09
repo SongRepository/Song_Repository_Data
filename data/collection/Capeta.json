@@ -1,0 +1,125 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "极速方程式",
+  "author": "曾田正人",
+  "date": "2005",
+  "desc": "自幼丧母的胜平太，与父亲相依为命。由于父亲忙于工作，身为小学四年级生的胜平太过着沉闷的日子，但他仍然表现坚强。他唯一憧憬的是有型的汽车......一天，父亲从工作场所带来一份“礼物”，从此令胜平太的命运彻底改变！",
+  "cover": "github+Capeta-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "极速方程式",
+    "Capeta"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Never Ever",
+      "singer": "タッキー&翼",
+      "desc": "OP（第1－34集）",
+      "cover": "github+Capeta-Song.jpg",
+      "album": "Venus",
+      "audio": {
+        "local": "NEVER EVER - タッキー&翼",
+        "xiami": "",
+        "douban": "32706gb06d",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "仆ら",
+      "singer": "BAZRA",
+      "desc": "ED（第1－14集）",
+      "cover": "github+Capeta-Song.jpg",
+      "album": "",
+      "audio": {
+        "local": "僕ら - BAZRA",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ナナナビゲーション",
+      "singer": "星井七濑",
+      "desc": "ED（第15－32集）",
+      "cover": "github+Capeta-Song.jpg",
+      "album": "ナナナビゲーション",
+      "audio": {
+        "local": "ナナナビゲーション - 星井七瀬",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "導火線",
+      "singer": "BAZRA",
+      "desc": "OP（第35－52集）",
+      "cover": "github+Capeta-Song.jpg",
+      "album": "オレンジ",
+      "audio": {
+        "local": "導火線 - BAZRA",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Here we go!",
+      "singer": "ミサイルイノベーション",
+      "desc": "ED（第33－43集）",
+      "cover": "github+Capeta-Song.jpg",
+      "album": "Be a man",
+      "audio": {
+        "local": "Here we go! - ミサイルイノベーション",
+        "xiami": "",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "My Star",
+      "singer": "菊地美香",
+      "desc": "ED（第44－51集）",
+      "cover": "github+Capeta-Song.jpg",
+      "album": "My Star",
+      "audio": {
+        "local": "My Star - 菊地美香",
+        "xiami": "1769648952",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
