@@ -1,0 +1,92 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "银の匙",
+  "author": "荒川弘",
+  "date": "2013",
+  "desc": "电视动画《银之匙》改编自日本漫画家荒川弘原作的同名漫画。",
+  "cover": "github+Silver-Spoon-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "银の匙"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Kiss you",
+      "singer": "miwa",
+      "desc": "OP 第1期",
+      "cover": "github+Silver-Spoon-Song.jpg",
+      "album": "Faraway/Kiss you",
+      "audio": {
+        "local": "miwa - Kiss you",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "27678427"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Hello Especially",
+      "singer": "スキマスイッチ",
+      "desc": "ED 第1期",
+      "cover": "github+Silver-Spoon-Song.jpg",
+      "album": "Hello Especially",
+      "audio": {
+        "local": "スキマスイッチ - Hello Especially",
+        "github": "",
+        "xiami": "1771989755",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "LIFE",
+      "singer": "フジファブリック",
+      "desc": "OP 第2期",
+      "cover": "github+Silver-Spoon-Song.jpg",
+      "album": "LIFE",
+      "audio": {
+        "local": "フジファブリック - LIFE",
+        "github": "",
+        "xiami": "1772478043",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "オトノナルホウヘ→",
+      "singer": "Goose house",
+      "desc": "ED 第2期",
+      "cover": "github+Silver-Spoon-Song.jpg",
+      "album": "オトノナルホウヘ→",
+      "audio": {
+        "local": "Goose house - オトノナルホウヘ→",
+        "github": "",
+        "xiami": "1772506559",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
