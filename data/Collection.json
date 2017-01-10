@@ -5,20 +5,21 @@
   "author": "",
   "date": "",
   "desc": "",
-  "cover": "",
+  "cover": "github+",
   "online": "",
   "download": "",
   "keyword": [],
   "song": [
     {
-      "type": "",
+      "type": "op",
       "name": "",
       "singer": "",
-      "desc": "",
-      "cover": "",
+      "desc": "OP",
+      "cover": "github+",
       "album": "",
       "audio": {
         "local": "",
+        "github": "",
         "xiami": "",
         "douban": "",
         "netease": ""
@@ -29,14 +30,15 @@
       }
     },
     {
-      "type": "",
+      "type": "ed",
       "name": "",
       "singer": "",
-      "desc": "",
-      "cover": "",
+      "desc": "ED",
+      "cover": "github+",
       "album": "",
       "audio": {
         "local": "",
+        "github": "",
         "xiami": "",
         "douban": "",
         "netease": ""
