@@ -1,0 +1,71 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "男子高中生的日常",
+  "author": "山内泰延",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Danshi-Koukousei-no-Nichijou-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["男子高中生的日常"],
+  "song": [
+    {
+      "type": "op",
+      "name": "Shiny tale",
+      "singer": "Mix Speaker's,Inc",
+      "desc": "OP",
+      "cover": "github+Danshi-Koukousei-no-Nichijou-OP.jpg",
+      "album": "Shiny tale",
+      "audio": {
+        "local": "Mix Speaker's, Inc. - Shiny tale",
+        "github": "",
+        "xiami": "1770823525",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "おひさま",
+      "singer": "雨先案内人",
+      "desc": "ED",
+      "cover": "github+Danshi-Koukousei-no-Nichijou-ED.jpg",
+      "album": "おひさま/イエーイ!!",
+      "audio": {
+        "local": "雨先案内人 - おひさま",
+        "github": "",
+        "xiami": "1770784196",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Capsule",
+      "singer": "Mix Speaker's,Inc",
+      "desc": "挿入歌",
+      "cover": "github+Danshi-Koukousei-no-Nichijou-OP.jpg",
+      "album": "Shiny tale",
+      "audio": {
+        "local": "Mix Speaker's, Inc. - Capsule",
+        "github": "",
+        "xiami": "1770823526",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
