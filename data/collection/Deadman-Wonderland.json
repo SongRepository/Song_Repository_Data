@@ -1,0 +1,54 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "死囚乐园",
+  "author": "片冈人生、近藤一马",
+  "date": "2011",
+  "desc": "本剧改编自片冈人生与近藤一马自《交响诗篇》后的又一力作。",
+  "cover": "github+Deadman-Wonderland-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "死囚乐园"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "One Reason",
+      "singer": "fade",
+      "desc": "OP",
+      "cover": "github+Deadman-Wonderland-OP.jpg",
+      "album": "One Reason",
+      "audio": {
+        "local": "fade - One Reason",
+        "github": "",
+        "xiami": "1770193208",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "SHINY SHINY",
+      "singer": "NIRGILIS",
+      "desc": "ED",
+      "cover": "github+Deadman-Wonderland-ED.jpg",
+      "album": "SHINY SHINY",
+      "audio": {
+        "local": "NIRGILIS - SHINY SHINY",
+        "github": "",
+        "xiami": "1770184017",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
