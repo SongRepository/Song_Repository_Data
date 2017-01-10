@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "金钱掌控",
+  "author": "",
+  "date": "2011",
+  "desc": "",
+  "cover": "github+[C]-The-Money-of-Soul-and-Possibility-Control-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["金钱掌控"],
+  "song": [
+    {
+      "type": "op",
+      "name": "マトリョーシカ",
+      "singer": "NICO Touches the Walls",
+      "desc": "OP",
+      "cover": "github+[C]-The-Money-of-Soul-and-Possibility-Control-Song.jpg",
+      "album": "PASSENGER",
+      "audio": {
+        "local": "NICO Touches the Walls - マトリョーシカ",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "22735434"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "RPG",
+      "singer": "School Food Punishment",
+      "desc": "ED",
+      "cover": "github+[C]-The-Money-of-Soul-and-Possibility-Control-Song.jpg",
+      "album": "RPG",
+      "audio": {
+        "local": "School Food Punishment - RPG",
+        "github": "",
+        "xiami": "1770160025",
+        "douban": "",
+        "netease": "822236"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
