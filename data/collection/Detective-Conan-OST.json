@@ -5,7 +5,7 @@
   "author": "青山刚昌",
   "date": "1996",
   "desc": "名侦探柯南-OST",
-  "cover": "github+Detective-Conan-Cover.jpg",
+  "cover": "github+Detective-Conan-OST-Cover.jpg",
   "online": "",
   "download": "",
   "keyword": [
@@ -17,11 +17,11 @@
       "type": "ost",
       "name": "そばにいるから",
       "singer": "↑THE HIGH-LOWS↓",
-      "desc": "挿入歌",
+      "desc": "挿入歌 (TV 12中使用)",
       "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
       "album": "名探偵コナン主題歌集",
       "audio": {
-        "local": "",
+        "local": "↑THE HIGH-LOWS↓ - そばにいるから",
         "xiami": "1769973720",
         "douban": "",
         "netease": ""
@@ -35,12 +35,108 @@
       "type": "ost",
       "name": "HAPPY END",
       "singer": "ZIGGY",
-      "desc": "挿入歌",
+      "desc": "挿入歌 (TV 17、26、33中使用)",
       "cover": "github+Detective-Conan-1996-Song-Collection.jpg",
       "album": "名探偵コナン主題歌集",
       "audio": {
-        "local": "",
+        "local": "ZIGGY - HAPPY END",
         "xiami": "1769973722",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ,
+    {
+      "type": "ost",
+      "name": "BREAK",
+      "singer": "TWO-MIX",
+      "desc": "挿入歌 TV 82中由TWO-MIX、江户川柯南等演唱",
+      "cover": "github+Detective-Conan-OST-1.jpg",
+      "album": "Fantastix",
+      "audio": {
+        "local": "TWO-MIX - BREAK",
+        "xiami": "1769674694",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ,
+    {
+      "type": "ost",
+      "name": "キミがいれば",
+      "singer": "伊織",
+      "desc": "《名侦探柯南》的主题旋律、各剧场版开篇主题音乐",
+      "cover": "github+Detective-Conan-OST-1.jpg",
+      "album": "キミがいれば",
+      "audio": {
+        "local": "伊織 - キミがいれば",
+        "xiami": "1769783120",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+
+  ,
+    {
+      "type": "ost",
+      "name": "想い出たち~想い出~",
+      "singer": "江户川柯南 (高山みなみ)",
+      "desc": "挿入歌",
+      "cover": "github+Detective-Conan-OST-1.jpg",
+      "album": "想い出たち~想い出~",
+      "audio": {
+        "local": "高山みなみ - 想い出たち~想い出~",
+        "xiami": "1769208337",
+        "douban": "",
+        "netease": "661938"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ぼくがいる~コナンのテーマ~",
+      "singer": "江户川柯南 (高山みなみ)",
+      "desc": "挿入歌 TV 76、129等集使用",
+      "cover": "github+Detective-Conan-OST-1.jpg",
+      "album": "想い出たち~想い出~",
+      "audio": {
+        "local": "高山みなみ - ぼくがいる~コナンのテーマ~",
+        "xiami": "1769208338",
+        "douban": "",
+        "netease": "661943"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+
+  ,
+    {
+      "type": "ost",
+      "name": "帝丹小学校校歌",
+      "singer": "帝丹小学全员",
+      "desc": "挿入歌 ",
+      "cover": "github+Detective-Conan-OST-1.jpg",
+      "album": "帝丹小学校に全員集合!!-名探偵コナン・キャラクター・ソング集-",
+      "audio": {
+        "local": "帝丹小学校校歌 - 帝丹小学全员",
+        "xiami": "3492713",
         "douban": "",
         "netease": ""
       },
