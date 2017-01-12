@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "要听爸爸的话！",
+  "author": "松智洋（已故）",
+  "date": "2012",
+  "desc": "故事讲述的是大一学生濑川祐太，在姐姐和姐夫因所搭乘的飞机离奇失踪而被认定罹难后，便义无反顾地收养了姐姐的三个女儿，从此就在一间六榻榻米的公寓里与三个少女开始了既欢闹又温情的生活。",
+  "cover": "github+Papa-no-Iukoto-wo-Kikinasai!-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["要听爸爸的话！"],
+  "song": [
+    {
+      "type": "op",
+      "name": "Happy Girl",
+      "singer": "喜多村英梨",
+      "desc": "OP",
+      "cover": "github+Papa-no-Iukoto-wo-Kikinasai!-Song.jpg",
+      "album": "Happy Girl",
+      "audio": {
+        "local": "喜多村英梨 - Happy Girl",
+        "github": "",
+        "xiami": "",
+        "douban": "1824810gad37",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Coloring",
+      "singer": "堀江由衣",
+      "desc": "ED",
+      "cover": "github+Papa-no-Iukoto-wo-Kikinasai!-Song.jpg",
+      "album": "Coloring",
+      "audio": {
+        "local": "堀江由衣 - Coloring",
+        "github": "",
+        "xiami": "",
+        "douban": "1851034gdc8e",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
