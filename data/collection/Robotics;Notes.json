@@ -1,0 +1,111 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "Robotics;Notes",
+  "author": "",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Robotics;Notes-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "Robotics;Notes"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "纯情スペクトラ",
+      "singer": "Zwei",
+      "desc": "OP",
+      "cover": "github+Robotics;Notes-OP1.jpg",
+      "album": "纯情スペクトラ",
+      "audio": {
+        "local": "Zwei - 純情スペクトラ",
+        "github": "",
+        "xiami": "1771397042",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "海风のブレイブ",
+      "singer": "fumika",
+      "desc": "ED",
+      "cover": "github+Robotics;Notes-ED1.jpg",
+      "album": "海风のブレイブ",
+      "audio": {
+        "local": "fumika - 海風のブレイブ",
+        "github": "",
+        "xiami": "1771373456",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "咆筺のメシア",
+      "singer": "HARUKI",
+      "desc": "OP2",
+      "cover": "github+Robotics;Notes-OP2.jpg",
+      "album": "咆筺のメシア",
+      "audio": {
+        "local": "Haruki - 咆筺のメシア",
+        "github": "",
+        "xiami": "1771731678",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "トポロジー",
+      "singer": "いとうかなこ",
+      "desc": "ED2",
+      "cover": "github+Robotics;Notes-ED2.jpg",
+      "album": "トポロジー",
+      "audio": {
+        "local": "いとうかなこ - トポロジー",
+        "github": "",
+        "xiami": "1771728488",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "咆筺のメシア (Chinese Version)",
+      "singer": "HARUKI",
+      "desc": "",
+      "cover": "github+Robotics;Notes-OP2.jpg",
+      "album": "咆筺のメシア",
+      "audio": {
+        "local": "Haruki - 咆筺のメシア(Chinese Version)",
+        "github": "",
+        "xiami": "1771731680",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
