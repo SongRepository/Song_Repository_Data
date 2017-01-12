@@ -1,0 +1,54 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "白兔糖",
+  "author": "宇仁田由美",
+  "date": "2011",
+  "desc": "30岁的单身男大吉在外公的葬礼上遇到了从未谋面的6岁小女孩凛。而这个孩子竟然是外公的私生子，知道这一事实后的大吉十分震惊。亲戚们表面上在讨论收养凛的事宜，实际上却在互相推卸责任，实在看不下去的大吉毅然做出了收养的决定。充满正义感却又冒冒失失的大吉，与虽然是个孩子却隐藏着坚强内心的小女孩凛。二个人开始了他们磕磕绊绊、同心协力的同居生活。",
+  "cover": "github+Usagi-Drop-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "白兔糖"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "SWEET DROPS",
+      "singer": "PUFFY",
+      "desc": "OP",
+      "cover": "github+Usagi-Drop-Song.jpg",
+      "album": "SWEET DROPS",
+      "audio": {
+        "local": "PUFFY - SWEET DROPS",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "797336"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "High High High",
+      "singer": "カサリンチュ",
+      "desc": "ED",
+      "cover": "github+Usagi-Drop-Song.jpg",
+      "album": "やめられない とまれない/High High High",
+      "audio": {
+        "local": "カサリンチュ - High High High",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "767946"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
