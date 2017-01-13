@@ -1,0 +1,71 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "天堂餐馆",
+  "author": "小野夏芽",
+  "date": "2009",
+  "desc": "",
+  "cover": "github+Ristorante-Paradiso-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["天堂餐馆"],
+  "song": [
+    {
+      "type": "op",
+      "name": "マリーゴールド",
+      "singer": "Orange Pekoe",
+      "desc": "OP",
+      "cover": "github+Ristorante-Paradiso-Song.jpg",
+      "album": "マリーゴールド/クリスタリズム",
+      "audio": {
+        "local": "橘子贝果 - マリーゴールド",
+        "github": "",
+        "xiami": "1768922237",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ステキな果実",
+      "singer": "コミネリサ",
+      "desc": "ED",
+      "cover": "github+Ristorante-Paradiso-Song.jpg",
+      "album": "ステキな果実",
+      "audio": {
+        "local": "コミネリサ - ステキな果実",
+        "github": "",
+        "xiami": "330860",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ステキな果実 (Acoustic Piano 弾き語り Version)",
+      "singer": "コミネリサ",
+      "desc": "",
+      "cover": "github+Ristorante-Paradiso-Song.jpg",
+      "album": "TVアニメーション「リストランテ・パラディーゾ」O.S.T.musica paradiso",
+      "audio": {
+        "local": "コミネリサ - ステキな果実 (Acoustic Piano 弾き語り Version)",
+        "github": "",
+        "xiami": "1769066141",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
