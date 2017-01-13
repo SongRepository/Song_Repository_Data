@@ -1,0 +1,90 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "魔术快斗1412",
+  "author": "青山刚昌",
+  "date": "2014",
+  "desc": "",
+  "cover": "github+Magic-Kaito-1412-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["魔术快斗", "怪盗基德"],
+  "song": [
+    {
+      "type": "op",
+      "name": "君の待つ世界",
+      "singer": "LAGOON",
+      "desc": "OP1",
+      "cover": "github+Magic-Kaito-1412-Song.jpg",
+      "album": "君の待つ世界",
+      "audio": {
+        "local": "LAGOON - 君の待つ世界",
+        "github": "",
+        "xiami": "29760006",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "WHITE of CRIME",
+      "singer": "REVALCY",
+      "desc": "ED1",
+      "cover": "github+Magic-Kaito-1412-Song.jpg",
+      "album": "WHITE of CRIME",
+      "audio": {
+        "local": "REVALCY - WHITE of CRIME",
+        "github": "",
+        "xiami": "1773650504",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "アイのシナリオ",
+      "singer": "CHiCO with HoneyWorks",
+      "desc": "OP2",
+      "cover": "github+Magic-Kaito-1412-Song.jpg",
+      "album": "アイのシナリオ",
+      "audio": {
+        "local": "CHiCO with HoneyWorks - アイのシナリオ",
+        "github": "",
+        "xiami": "1773892805",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "恋の寿命",
+      "singer": "Galileo Galilei",
+      "desc": "ED2",
+      "cover": "github+Magic-Kaito-1412-Song.jpg",
+      "album": "恋の寿命",
+      "audio": {
+        "local": "Galileo Galilei - 恋の寿命",
+        "github": "",
+        "xiami": "1773920775",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
