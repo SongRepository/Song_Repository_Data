@@ -1,0 +1,92 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "悠哉日常大王",
+  "author": "あっと",
+  "date": "2013,2015",
+  "desc": "电视动画《悠哉日常大王》改编自日本漫画家あっと原作的同名漫画。故事以有着优美自然风景的乡下学校旭丘分校为舞台，讲述少女们的悠哉日常生活。",
+  "cover": "github+Non-Non-Biyori-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "悠哉日常大王"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "なないろびより",
+      "singer": "nano.RIPE",
+      "desc": "OP",
+      "cover": "github+Non-Non-Biyori-Song1.jpg",
+      "album": "なないろびより",
+      "audio": {
+        "local": "nano.RIPE - なないろびより",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "27906573"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "のんのん日和",
+      "singer": "宫内莲华（小岩井小鸟）、一条萤（村川梨衣）、越谷夏海（佐仓绫音）、越谷小鞠（阿澄佳奈）",
+      "desc": "ED",
+      "cover": "github+Non-Non-Biyori-Song1.jpg",
+      "album": "のんのん日和",
+      "audio": {
+        "local": "佐倉綾音,阿澄佳奈,小岩井ことり - のんのん日和",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "27955372"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "こだまことだま",
+      "singer": "nano.RIPE",
+      "desc": "OP 第二季",
+      "cover": "github+Non-Non-Biyori-OP2.jpg",
+      "album": "こだまことだま",
+      "audio": {
+        "local": "nano.RIPE - こだまことだま",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "33252967"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "おかえり",
+      "singer": "宫内莲华（小岩井小鸟）、一条萤（村川梨衣）、越谷夏海（佐仓绫音）、越谷小鞠（阿澄佳奈）",
+      "desc": "ED 第二季",
+      "cover": "github+Non-Non-Biyori-ED2.jpg",
+      "album": "おかえり",
+      "audio": {
+        "local": "小岩井ことり,村川梨衣,佐倉綾音 - おかえり",
+        "github": "",
+        "xiami": "1774614102",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
