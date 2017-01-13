@@ -1,0 +1,93 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "交响情人梦",
+  "author": "二之宫知子",
+  "date": "2007,2008,2010",
+  "desc": "",
+  "cover": "github+Nodame-Cantabile-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "交响情人梦"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Allegro Cantabile",
+      "singer": "Suemitsu & The Suemith",
+      "desc": "OP",
+      "cover": "github+Nodame-Cantabile-Song1.jpg",
+      "album": "Allegro Cantabile",
+      "audio": {
+        "local": "Suemitsu - Allegro Cantabile",
+        "github": "",
+        "xiami": "1770104205",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "こんなに近くで",
+      "singer": "Crystal Kay",
+      "desc": "ED",
+      "cover": "github+Nodame-Cantabile-Song1.jpg",
+      "album": "こんなに近くで...",
+      "audio": {
+        "local": "Crystal Kay - こんなに近くで",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "563008"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "まなざし☆デイドリーム",
+      "singer": "さかいゆう",
+      "desc": "OP 第三季",
+      "cover": "github+Nodame-Cantabile-Song1.jpg",
+      "album": "まなざし☆デイドリーム",
+      "audio": {
+        "local": "さかいゆう - まなざし☆デイドリーム",
+        "github": "",
+        "xiami": "1769368470",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "風と丘のバラード",
+      "singer": "Real Paradis",
+      "desc": "ED 第三季",
+      "cover": "github+Nodame-Cantabile-Song1.jpg",
+      "album": "風と丘のバラード",
+      "audio": {
+        "local": "Real Paradis - 风と丘のバラード",
+        "github": "",
+        "xiami": "1769402159",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+
+  ]
+}
