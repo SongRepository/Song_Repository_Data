@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "MUNTO",
+  "author": "京都动画",
+  "date": "2009",
+  "desc": "仰望天空的少女眼中的世界",
+  "cover": "github+MUNTO-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["MUNTO","仰望天空的少女眼中的世界"],
+  "song": [
+    {
+      "type": "op",
+      "name": "アネモイ",
+      "singer": "eufonius",
+      "desc": "OP",
+      "cover": "github+MUNTO-OP.jpg",
+      "album": "アネモイ",
+      "audio": {
+        "local": "eufonius - アネモイ",
+        "github": "",
+        "xiami": "1769844055",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "光と闇と時の果て",
+      "singer": "Ceui",
+      "desc": "ED",
+      "cover": "github+MUNTO-ED.jpg",
+      "album": "光と闇と時の果て",
+      "audio": {
+        "local": "Ceui - 光と暗と时の果て",
+        "github": "",
+        "xiami": "1769485113",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
