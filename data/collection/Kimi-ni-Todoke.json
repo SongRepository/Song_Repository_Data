@@ -1,0 +1,111 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "好想告诉你",
+  "author": "椎名轻穗",
+  "date": "2009,2011",
+  "desc": "",
+  "cover": "github+Kimi-ni-Todoke-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "好想告诉你"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "きみにとどけ",
+      "singer": "タニザワトモフミ",
+      "desc": "OP",
+      "cover": "github+Kimi-ni-Todoke-Song.jpg",
+      "album": "きみにとどけ",
+      "audio": {
+        "local": "タニザワトモフミ - きみにとどけ",
+        "github": "",
+        "xiami": "",
+        "douban": "1472616g74a2",
+        "netease": "528047"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "片想い",
+      "singer": "Chara",
+      "desc": "ED",
+      "cover": "github+Kimi-ni-Todoke-Song.jpg",
+      "album": "片想い",
+      "audio": {
+        "local": "Chara - 片想い",
+        "github": "",
+        "xiami": "",
+        "douban": "1472568g2c9d",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "爽风",
+      "singer": "タニザワトモフミ",
+      "desc": "OP 第二季",
+      "cover": "github+Kimi-ni-Todoke-Song.jpg",
+      "album": "日本に落ちてきた男",
+      "audio": {
+        "local": "タニザワトモフミ - 爽風",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "453185933"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君に届け...",
+      "singer": "MAY'S",
+      "desc": "ED 第二季",
+      "cover": "github+Kimi-ni-Todoke-Song.jpg",
+      "album": "君に届け... / WONDERLAND",
+      "audio": {
+        "local": "MAY'S - 君に届け",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "26123955"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "宇宙旅行",
+      "singer": "タニザワトモフミ",
+      "desc": "",
+      "cover": "github+Kimi-ni-Todoke-Song.jpg",
+      "album": "きみにとどけ",
+      "audio": {
+        "local": "タニザワトモフミ - 宇宙旅行",
+        "github": "",
+        "xiami": "",
+        "douban": "1472617gb136",
+        "netease": "528052"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
