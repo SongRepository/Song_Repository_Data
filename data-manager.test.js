@@ -30,6 +30,19 @@ describe("RegisterManager", function () {
         });
     });
 
+    describe('getCollectionCover', function () {
+        it('', function () {
+            var jsonObj = {
+                name: 'name',
+                cover: 'cover'
+            };
+
+            var result = _RegisterManager.getCollectionCover(jsonObj);
+
+            _Assert.equal(result, 'cover');
+        });
+    });
+
     describe('isCollectionFile', function () {
         it('', function () {
             var fileName = 'aaabbb.json';
@@ -48,12 +61,13 @@ describe("RegisterManager", function () {
         it('', function () {
             var fileBaseName = 'honey-and-clover';
             var name = '蜂蜜与四叶草';
+            var cover = 'cover.jpg';
 
-            var result = _RegisterManager.buildCollectionItem(fileBaseName, name);
+            var result = _RegisterManager.buildCollectionItem(fileBaseName, name, cover);
 
             _Assert.equal(result['file_name'], fileBaseName);
             _Assert.equal(result['name'], name);
-
+            _Assert.equal(result['cover'], cover);
         });
     });
 

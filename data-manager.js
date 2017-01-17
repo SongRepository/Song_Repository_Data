@@ -7,7 +7,11 @@ var IndexRoot = __dirname + '/data/index/';
 
 
 var RegisterManager = function () {
-
+    var self = this;
+    setInterval(function () {
+        self.autoBuildRegister();
+    }, 5 * 60 * 1000);
+    return self;
 };
 RegisterManager.prototype.getFileBaseName = function (fileName) {
     return _Path.basename(fileName, _Path.extname(fileName));
@@ -15,14 +19,18 @@ RegisterManager.prototype.getFileBaseName = function (fileName) {
 RegisterManager.prototype.getCollectionName = function (jsonObj) {
     return jsonObj['name'];
 };
+RegisterManager.prototype.getCollectionCover = function (jsonObj) {
+    return jsonObj['cover'];
+};
 RegisterManager.prototype.isCollectionFile = function (fileName) {
     const JSON = '.json';
     return _Path.extname(fileName) === JSON;
 };
-RegisterManager.prototype.buildCollectionItem = function (fileBaseName, name) {
+RegisterManager.prototype.buildCollectionItem = function (fileBaseName, name, cover) {
     var item = {
         file_name: fileBaseName,
-        name: name
+        name: name,
+        cover: cover
     };
     return item;
 };
@@ -47,7 +55,8 @@ RegisterManager.prototype.buildRegister = function (fileList) {
                 var fileBaseName = self.getFileBaseName(fileName);
                 var jsonObj = self.readCollectionFile(fileName);
                 var name = self.getCollectionName(jsonObj);
-                var item = self.buildCollectionItem(fileBaseName, name);
+                var cover = self.getCollectionCover(jsonObj);
+                var item = self.buildCollectionItem(fileBaseName, name, cover);
                 result.push(item);
             }
         });
