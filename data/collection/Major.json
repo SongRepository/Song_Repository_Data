@@ -1,0 +1,378 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "棒球大联盟",
+  "author": "满田拓也",
+  "date": "2004,2005,2007,2008,2009.2010",
+  "desc": "",
+  "cover": "github+Major-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "棒球大联盟",
+    "Major"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "心絵",
+      "singer": "ロードオブメジャー",
+      "desc": "OP 第一季",
+      "cover": "github+Major-Song.jpg",
+      "album": "GOLDEN ROAD~BEST~",
+      "audio": {
+        "local": "Road of Major;ROM - 心絵",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "22741442"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Step",
+      "singer": "BENI",
+      "desc": "ED1 第一季",
+      "cover": "github+Major-Song.jpg",
+      "album": "Beni",
+      "audio": {
+        "local": "BENI - Step",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "561772"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Faraway",
+      "singer": "PARADISE GO!! GO!!",
+      "desc": "ED2 第一季",
+      "cover": "github+Major-Song.jpg",
+      "album": "Faraway",
+      "audio": {
+        "local": "Paradise Go!!Go!! - Faraway",
+        "github": "",
+        "xiami": "1769174374",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "さらば碧き面影",
+      "singer": "ロードオブメジャー",
+      "desc": "OP 第二季",
+      "cover": "github+Major-Song.jpg",
+      "album": "GOLDEN ROAD~BEST~",
+      "audio": {
+        "local": "Road of Major;ROM - さらば碧き面影",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "22741453"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "WONDERLAND",
+      "singer": "MAY",
+      "desc": "ED1 第二季",
+      "cover": "github+Major-Song.jpg",
+      "album": "a Little Happiness",
+      "audio": {
+        "local": "MAY - WONDERLAND",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "22845419"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "しょぼい颜すんなよベイベー",
+      "singer": "ザ・ルーズドッグス",
+      "desc": "ED2 第二季",
+      "cover": "github+Major-Song.jpg",
+      "album": "メジャー Perfect Song Collection",
+      "audio": {
+        "local": "『しょぼい颜すんなよベイベー』ザ・ルーズドッグス(第2シリーズ・エンディングテーマ2)",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "31245407"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "PLAY THE GAME",
+      "singer": "ロードオブメジャー",
+      "desc": "OP 第三季",
+      "cover": "github+Major-Song.jpg",
+      "album": "GOLDEN ROAD~BEST~",
+      "audio": {
+        "local": "Road of Major;ROM - PLAY THE GAME",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "22741438"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Strike Party!!!",
+      "singer": "BeForU",
+      "desc": "ED1 第三季",
+      "cover": "github+Major-Song.jpg",
+      "album": "BeFoU III Breaking Into The Probability Changes",
+      "audio": {
+        "local": "BeForU - Strike Party!!!",
+        "github": "",
+        "xiami": "3484117",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "夜になれば",
+      "singer": "ザ・ルーズドッグス",
+      "desc": "ED2 第三季",
+      "cover": "github+Major-Song.jpg",
+      "album": "Life size",
+      "audio": {
+        "local": "ザ・ルーズドッグス - 夜になれば",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "6522040"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "RISE",
+      "singer": "大友康平",
+      "desc": "OP 第四季",
+      "cover": "github+Major-Song.jpg",
+      "album": "RISE",
+      "audio": {
+        "local": "『RISE』大友康平(第4シリーズ・オープニングテーマ)",
+        "github": "",
+        "xiami": "1769656931",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ONE DAY",
+      "singer": "ザ・ルーズドッグス",
+      "desc": "ED1 第四季",
+      "cover": "github+Major-Song.jpg",
+      "album": "Life size",
+      "audio": {
+        "local": "ザ・ルーズドッグス - ONE DAY",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "6522039"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "雨のち虹色",
+      "singer": "ザ・ルーズドッグス,大黒摩季,茂野吾",
+      "desc": "ED2 第四季",
+      "cover": "github+Major-Song.jpg",
+      "album": "雨のち虹色",
+      "audio": {
+        "local": "ザ・ルーズドッグス,大黒摩季,茂野吾郎 - 雨のち虹色",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "6522050"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Hey! Hey! Alright",
+      "singer": "スチャダラパー,木村カエ",
+      "desc": "OP 第五季",
+      "cover": "github+Major-Song.jpg",
+      "album": "Hey! Hey! Hey! Alright",
+      "audio": {
+        "local": "スチャダラパー,木村カエラ - Hey! Hey! Alright",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "4900646"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Stay with me",
+      "singer": "岛谷ひとみ",
+      "desc": "ED1 第五季",
+      "cover": "github+Major-Song.jpg",
+      "album": "SMILES",
+      "audio": {
+        "local": "島谷ひとみ - Stay with me",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "565125"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ジブンカラー",
+      "singer": "中村優",
+      "desc": "ED2 第五季",
+      "cover": "github+Major-Song.jpg",
+      "album": "ジブンカラー",
+      "audio": {
+        "local": "中村优 - ジブンカラー",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "626500"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "心絵",
+      "singer": "TRIPLANE",
+      "desc": "OP 第六季",
+      "cover": "github+Major-Song.jpg",
+      "album": "心絵/友よ",
+      "audio": {
+        "local": "TRIPLANE - 心絵",
+        "github": "",
+        "xiami": "1769651876",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "トワイライトスター",
+      "singer": "メガマソ",
+      "desc": "ED1 第六季",
+      "cover": "github+Major-Song.jpg",
+      "album": "トワイライトスター",
+      "audio": {
+        "local": "メガマソ - トワイライトスター",
+        "github": "",
+        "xiami": "1769536852",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ずっと 前から",
+      "singer": "フレンチ・キス",
+      "desc": "ED2 第六季",
+      "cover": "github+Major-Song.jpg",
+      "album": "ずっと 前から",
+      "audio": {
+        "local": "フレンチ・キス - ずっと 前から",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "744216"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "翼",
+      "singer": "レミオロメン",
+      "desc": "剧场版主题曲",
+      "cover": "github+Major-Song.jpg",
+      "album": "风のクロマ",
+      "audio": {
+        "local": "レミオロメン - 翼",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "804709"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
