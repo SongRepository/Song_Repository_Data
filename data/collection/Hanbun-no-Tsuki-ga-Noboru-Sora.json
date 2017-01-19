@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "仰望半月的夜空",
+  "author": "桥本纺",
+  "date": "2006",
+  "desc": "",
+  "cover": "github+Hanbun-no-Tsuki-ga-Noboru-Sora-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "仰望半月的夜空",
+    "半分の月がのぼる空"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "青い幸福",
+      "singer": "のぶこ",
+      "desc": "OP",
+      "cover": "github+Hanbun-no-Tsuki-ga-Noboru-Sora-Song.jpg",
+      "album": "半分の月がのぼる空 - 青い幸福",
+      "audio": {
+        "local": "のぶこ - 青い幸福",
+        "github": "",
+        "xiami": "1771508305",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "記憶のカケラ",
+      "singer": "のぶこ",
+      "desc": "ED",
+      "cover": "github+Hanbun-no-Tsuki-ga-Noboru-Sora-Song.jpg",
+      "album": "半分の月がのぼる空 - 青い幸福",
+      "audio": {
+        "local": "のぶこ - 記憶のカケラ",
+        "github": "",
+        "xiami": "1771508306",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
