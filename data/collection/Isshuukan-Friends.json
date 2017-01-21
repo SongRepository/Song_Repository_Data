@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "一周的朋友。",
+  "author": "叶月抹茶",
+  "date": "2014",
+  "desc": "",
+  "cover": "github+Isshuukan-Friends-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "一周的朋友。",
+    "一週間フレンズ。"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "虹のかけら",
+      "singer": "昆夏美",
+      "desc": "OP",
+      "cover": "github+Isshuukan-Friends-OP.jpg",
+      "album": "虹のかけら",
+      "audio": {
+        "local": "昆夏美 - 虹のかけら",
+        "github": "",
+        "xiami": "1772883816",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "奏 (かなで)",
+      "singer": "雨宮天",
+      "desc": "ED",
+      "cover": "github+Isshuukan-Friends-ED.jpg",
+      "album": "奏 (かなで)",
+      "audio": {
+        "local": "雨宮天 - 奏 (かなで)",
+        "github": "",
+        "xiami": "1772918948",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
