@@ -1,0 +1,92 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "狼与香辛料",
+  "author": "支仓冻砂",
+  "date": "2008,2009",
+  "desc": "",
+  "cover": "github+Ookami-to-Koushinryou-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "狼与香辛料"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "旅の途中",
+      "singer": "清浦夏実",
+      "desc": "OP 第一季",
+      "cover": "github+Ookami-to-Koushinryou-Song.jpg",
+      "album": "旅の途中",
+      "audio": {
+        "local": "清浦夏実 - 旅の途中",
+        "github": "",
+        "xiami": "3570580",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "リンゴ日和 ~The Wolf Whistling Song",
+      "singer": "ROCKY CHACK",
+      "desc": "ED 第一季",
+      "cover": "github+Ookami-to-Koushinryou-Song.jpg",
+      "album": "リンゴ日和",
+      "audio": {
+        "local": "ROCKY CHACK - リンゴ日和 ~The Wolf Whistling Song",
+        "github": "",
+        "xiami": "3645709",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "蜜の夜明け",
+      "singer": "新居昭乃",
+      "desc": "OP 第二季",
+      "cover": "github+Ookami-to-Koushinryou-Song.jpg",
+      "album": "蜜の夜明け",
+      "audio": {
+        "local": "新居昭乃 - 蜜の夜明け",
+        "github": "",
+        "xiami": "1769183417",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Perfect World",
+      "singer": "ROCKY CHACK",
+      "desc": "ED 第二季",
+      "cover": "github+Ookami-to-Koushinryou-Song.jpg",
+      "album": "Perfect World",
+      "audio": {
+        "local": "ROCKY CHACK - Perfect World",
+        "github": "",
+        "xiami": "1769604544",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
