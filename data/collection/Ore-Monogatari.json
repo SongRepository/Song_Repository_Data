@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "俺物语！！",
+  "author": "河原和音,或子",
+  "date": "2015",
+  "desc": "",
+  "cover": "github+Ore-Monogatari-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["俺物语！！", "俺物语"],
+  "song": [
+    {
+      "type": "op",
+      "name": "未来形Answer",
+      "singer": "TRUSTRICK",
+      "desc": "OP",
+      "cover": "github+Ore-Monogatari-Song.jpg",
+      "album": "未来形Answer E.P.",
+      "audio": {
+        "local": "TRUSTRICK - 未来形Answer",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "31861342"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "幸せのありか",
+      "singer": "LOCAL CONNECT",
+      "desc": "ED",
+      "cover": "github+Ore-Monogatari-Song.jpg",
+      "album": "過去ツナグ未来",
+      "audio": {
+        "local": "LOCAL CONNECT - 幸せのありか",
+        "github": "",
+        "xiami": "1774373140",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
