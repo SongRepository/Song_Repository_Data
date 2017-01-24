@@ -125,6 +125,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "ファンタジスタ★ガール",
+      "singer": "The Indigo",
+      "desc": "ED 动物横町 (第1集－第50集、第101集－第102集)",
+      "cover": "github+Animal-Yokochou-Song.jpg",
+      "album": "",
+      "audio": {
+        "local": "ファンタジスタ★ガール - The Indigo",
+        "github": "",
+        "xiami": "2394905",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
