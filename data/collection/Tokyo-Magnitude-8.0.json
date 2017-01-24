@@ -1,0 +1,52 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "东京地震8.0",
+  "author": "",
+  "date": "2009",
+  "desc": "",
+  "cover": "github+Tokyo-Magnitude-8.0-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": ["东京地震8.0"],
+  "song": [
+    {
+      "type": "op",
+      "name": "キミノウタ",
+      "singer": "abingdon boys school",
+      "desc": "OP",
+      "cover": "github+Tokyo-Magnitude-8.0-Song.jpg",
+      "album": "キミノウタ",
+      "audio": {
+        "local": "abingdon boys school - キミノウタ",
+        "github": "",
+        "xiami": "1769079264",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "M/elody",
+      "singer": "辻诗音",
+      "desc": "ED",
+      "cover": "github+Tokyo-Magnitude-8.0-Song.jpg",
+      "album": "M/elody",
+      "audio": {
+        "local": "辻詩音 - M／elody",
+        "github": "",
+        "xiami": "1769034106",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
