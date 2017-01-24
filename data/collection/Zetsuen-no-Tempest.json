@@ -1,0 +1,94 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "绝园的暴风雨",
+  "author": "城平京,左有秀,彩崎廉",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Zetsuen-no-Tempest-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "绝园的暴风雨",
+    "絶園のテンペスト",
+    "Zetsuen no Tempest"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Spirit Inspiration",
+      "singer": "Nothing’s Carved In Stone",
+      "desc": "OP1",
+      "cover": "github+Zetsuen-no-Tempest-Song.jpg",
+      "album": "Spirit Inspiration",
+      "audio": {
+        "local": "Nothing's Carved In Stone - Spirit Inspiration",
+        "github": "",
+        "xiami": "1775798362",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "happy endings",
+      "singer": "花泽香菜",
+      "desc": "ED1",
+      "cover": "github+Zetsuen-no-Tempest-Song.jpg",
+      "album": "happy endings",
+      "audio": {
+        "local": "花澤香菜 - happy endings",
+        "github": "",
+        "xiami": "1771625721",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "大好きなのに",
+      "singer": "Kylee",
+      "desc": "OP2",
+      "cover": "github+Zetsuen-no-Tempest-Song.jpg",
+      "album": "大好きなのに",
+      "audio": {
+        "local": "Kylee - 大好きなのに",
+        "github": "",
+        "xiami": "1771610779",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "仆たちの歌",
+      "singer": "佐香智久",
+      "desc": "ED2",
+      "cover": "github+Zetsuen-no-Tempest-Song.jpg",
+      "album": "仆たちの歌",
+      "audio": {
+        "local": "佐香智久 - 僕たちの歌",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "26313854"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
