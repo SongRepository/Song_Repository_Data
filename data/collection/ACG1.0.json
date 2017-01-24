@@ -144,6 +144,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "Love & Roll",
+      "singer": "supercell",
+      "desc": "OP CENCOROLL",
+      "cover": "github+CENCOROLL-Song.jpg",
+      "album": "君の知らない物语",
+      "audio": {
+        "local": "LOVE & ROLL - supercell",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "825652"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
