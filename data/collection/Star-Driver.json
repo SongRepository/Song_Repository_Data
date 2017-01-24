@@ -1,0 +1,171 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "STAR DRIVER 闪亮的塔科特",
+  "author": "",
+  "date": "2010",
+  "desc": "",
+  "cover": "github+Star-Driver-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "STAR DRIVER 闪亮的塔科特",
+    "STAR DRIVER 辉きのタクト",
+    "驭星者",
+    "Star Driver"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "GRAVITY Ø",
+      "singer": "Aqua Timez",
+      "desc": "OP （第1话 - 第13话）",
+      "cover": "github+Star-Driver-Song.jpg",
+      "album": "GRAVITY Ø",
+      "audio": {
+        "local": "Aqua Timez - GRAVITY Ø",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "678099"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Cross Over",
+      "singer": "9nine",
+      "desc": "ED （第1话 - 第13话）",
+      "cover": "github+Star-Driver-Song.jpg",
+      "album": "Cross Over",
+      "audio": {
+        "local": "9nine - Cross Over",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "873298"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "SHINING☆STAR",
+      "singer": "9nine",
+      "desc": "OP （第14话 -最终话 ）",
+      "cover": "github+Star-Driver-Song.jpg",
+      "album": "SHINING☆STAR",
+      "audio": {
+        "local": "9nine - SHINING☆STAR",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "873263"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Pride",
+      "singer": "SCANDAL",
+      "desc": "ED （第14话 - 最终话）",
+      "cover": "github+Star-Driver-Song.jpg",
+      "album": "Pride",
+      "audio": {
+        "local": "SCANDAL - Pride",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "820008"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "モノクローム",
+      "singer": "気多の巫女（戸松遥）",
+      "desc": "剧中歌 (第1话、第2话、第3话、第5话、第7话、第8话)",
+      "cover": "github+Star-Driver-OST.jpg",
+      "album": "TVアニメ『STAR DRIVER 輝きのタクト』劇中歌 - モノクローム／気多の巫女(戸松遙)[BD&DVD第1巻特典CD]",
+      "audio": {
+        "local": "戸松遥 - モノクローム",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "656486"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "木漏れ日のコンタクト",
+      "singer": "アゲマキワコ（早见沙织）",
+      "desc": "剧中歌 (第4话、第6话、第11话、第19话、第22话)",
+      "cover": "github+Star-Driver-OST.jpg",
+      "album": "STAR DRIVER 辉きのタクト 9 特典CD 剧中歌- 木漏れ日のコンタクト/皆水の巫女",
+      "audio": {
+        "local": "早見沙織 - 木漏れ日のコンタクト",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "581696"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "イノセント·ブルー",
+      "singer": "ヨウミズノ（日高里菜）",
+      "desc": "剧中歌 (第10话~第12话、第15话)",
+      "cover": "github+Star-Driver-OST.jpg",
+      "album": "STAR DRIVER 辉きのタクト 4 特典CD 剧中歌- イノセント・ブルー /日死の巫女",
+      "audio": {
+        "local": "日高里菜 - イノセント・ブルー",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "582221"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "秋色のアリア",
+      "singer": "ニチケイト（小清水亜美）",
+      "desc": "剧中歌 (第17话、第18话)",
+      "cover": "github+Star-Driver-OST.jpg",
+      "album": "STAR DRIVER 辉きのタクト 7 特典CD 剧中歌- 秋色のアリア/ひが日死の巫女",
+      "audio": {
+        "local": "小清水亜美 - 秋色のアリア",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "595806"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
