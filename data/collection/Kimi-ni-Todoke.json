@@ -90,6 +90,25 @@
     },
     {
       "type": "ost",
+      "name": "きみにとどけ (ボーナストラック)",
+      "singer": "能登麻美子;浪川大輔;沢城みゆき;三瓶由布子;中村悠一;宮野真守;平野綾",
+      "desc": "",
+      "cover": "github+Kimi-ni-Todoke-Song.jpg",
+      "album": "君に届け Secret Party ~北幌高校学校祭アナザーサイド",
+      "audio": {
+        "local": "きみにとどけ (ボーナストラック) - 能登麻美子;浪川大輔;沢城みゆき;三瓶由布子;中村悠一;宮野真守;平野綾",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "4928233"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
       "name": "宇宙旅行",
       "singer": "タニザワトモフミ",
       "desc": "",
