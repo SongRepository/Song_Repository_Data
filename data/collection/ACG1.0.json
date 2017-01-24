@@ -182,6 +182,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "missing",
+      "singer": "Kylee",
+      "desc": "OP2 HEROMAN",
+      "cover": "github+HEROMAN-Song.jpg",
+      "album": "missing / IT'S YOU",
+      "audio": {
+        "local": "missing - Kylee",
+        "github": "",
+        "xiami": "1769619315",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
