@@ -163,6 +163,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "リアルワールド",
+      "singer": "nano.RIPE",
+      "desc": "OP 人类衰退之后",
+      "cover": "github+Jinrui-wa-Suitai-Shimashita-Song.jpg",
+      "album": "リアルワールド",
+      "audio": {
+        "local": "リアルワールド - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1880506gefc1",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
