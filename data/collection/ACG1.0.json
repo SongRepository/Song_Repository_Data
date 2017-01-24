@@ -201,6 +201,44 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "真赤な誓い",
+      "singer": "福山芳樹",
+      "desc": "OP 武装炼金",
+      "cover": "github+Busou-Renkin-Song.jpg",
+      "album": "真赤な誓い",
+      "audio": {
+        "local": "真赤な誓い - 福山芳樹",
+        "github": "",
+        "xiami": "1769248669",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "光のシルエット",
+      "singer": "CooRie",
+      "desc": "OP 绝对少年",
+      "cover": "github+Zettai-Shounen-Song.jpg",
+      "album": "光のシルエット",
+      "audio": {
+        "local": "光のシルエット - CooRie",
+        "github": "",
+        "xiami": "1770372836",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
