@@ -1,0 +1,130 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "ACG1.0",
+  "author": "",
+  "date": "",
+  "desc": "ACG合集",
+  "cover": "github+ACG-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "合集"
+  ],
+  "song": [
+    {
+      "type": "ed",
+      "name": "乙女はDO MY BESTでしょ？",
+      "singer": "菊地美香&小清水亚美",
+      "desc": "ED 舞-乙HIME",
+      "cover": "github+Mai-Otome-ED.jpg",
+      "album": "乙女はDO MY BESTでしょ?",
+      "audio": {
+        "local": "梶浦由記 - 乙女はDO MY BESTでしょ？",
+        "github": "",
+        "xiami": "1771594796",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Fast Forward",
+      "singer": "MONKEY MAJI",
+      "desc": "OP 滑头鬼之孙 第一季(第01话 ~ 第13话)",
+      "cover": "github+Nurarihyon-no-Mago-Song.jpg",
+      "album": "ぬらりひょんの孫 オープニングテーマEP",
+      "audio": {
+        "local": "MONKEY MAJIK - Fast Forward",
+        "github": "",
+        "xiami": "",
+        "douban": "1519149g5128",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Sunshine",
+      "singer": "MONKEY MAJI",
+      "desc": "OP 滑头鬼之孙 第一季(第14话 ~ 第25话)",
+      "cover": "github+Nurarihyon-no-Mago-Song.jpg",
+      "album": "ぬらりひょんの孫 オープニングテーマEP",
+      "audio": {
+        "local": "MONKEY MAJIK - Sunshine",
+        "github": "",
+        "xiami": "",
+        "douban": "1529274g5d33",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "S.O.S.",
+      "singer": "WEAVER",
+      "desc": "OP 乌龙面之国的金色毛毬",
+      "cover": "github+Udon-no-Kuni-no-Kiniro-Kemari-Song.jpg",
+      "album": "S.O.S. / Wake me up",
+      "audio": {
+        "local": "WEAVER - S.O.S",
+        "github": "",
+        "xiami": "1776436642",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Destin Histoire",
+      "singer": "yoshiki*lisa",
+      "desc": "OP GOSICK",
+      "cover": "github+GOSICK-Song.jpg",
+      "album": "Destin Histoire",
+      "audio": {
+        "local": "yoshiki＊lisa - Destin Histoire",
+        "github": "",
+        "xiami": "1770099739",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君がいる限り",
+      "singer": "ステファニー",
+      "desc": "ED1 星界死者之书",
+      "cover": "github+KISSDUM-Song.jpg",
+      "album": "ステファニー",
+      "audio": {
+        "local": "ステファニー - 君がいる限り",
+        "github": "",
+        "xiami": "3550217",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
