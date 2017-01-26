@@ -334,6 +334,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "Reason",
+      "singer": "fonogenico",
+      "desc": "ED XXXHOLiC 第一季",
+      "cover": "github+XXXHOLiC-Song.jpg",
+      "album": "Reason",
+      "audio": {
+        "local": "Reason - fonogenico",
+        "github": "",
+        "xiami": "1769048701",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
