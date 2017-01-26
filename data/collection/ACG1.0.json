@@ -239,6 +239,44 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "Rainbow",
+      "singer": "ROUND TABLE",
+      "desc": "ED 水星领航员 第一季",
+      "cover": "github+ARIA-Song.jpg",
+      "album": "Rainbow",
+      "audio": {
+        "local": "rainbow - ROUND TABLE",
+        "github": "",
+        "xiami": "3384187",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "just for you",
+      "singer": "ROUND TABLE",
+      "desc": "插曲 水星领航员 第一季",
+      "cover": "github+ARIA-Song.jpg",
+      "album": "Rainbow",
+      "audio": {
+        "local": "just for you - ROUND TABLE",
+        "github": "",
+        "xiami": "3384188",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
