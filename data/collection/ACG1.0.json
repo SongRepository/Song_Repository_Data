@@ -296,6 +296,44 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "光るなら",
+      "singer": "Goose house",
+      "desc": "OP 四月是你的谎言",
+      "cover": "github+Shigatsu-wa-Kimi-no-Uso-Song.jpg",
+      "album": "光るなら",
+      "audio": {
+        "local": "光るなら - Goose house",
+        "github": "",
+        "xiami": "1773614784",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "daze",
+      "singer": "MARIA",
+      "desc": "OP 目隐都市的演绎者",
+      "cover": "github+Mekakucity-Actors-Song.jpg",
+      "album": "daze / days",
+      "audio": {
+        "local": "daze - MARiA",
+        "github": "",
+        "xiami": "1772948601",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
