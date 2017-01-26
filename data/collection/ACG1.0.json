@@ -277,6 +277,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "君だけを…",
+      "singer": "Mi",
+      "desc": "OP 我们的存在",
+      "cover": "github+Bokura-ga-Ita-Song.jpg",
+      "album": "TVアニメ「僕等がいた」Vocal Album 永遠",
+      "audio": {
+        "local": "君だけを - Mi",
+        "github": "",
+        "xiami": "1768924914",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
