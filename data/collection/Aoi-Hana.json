@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "青之花",
+  "author": "志村贵子",
+  "date": "2009",
+  "desc": "",
+  "cover": "github+Aoi-Hana-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "青之花",
+    "青い花"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "青い花",
+      "singer": "空气公团",
+      "desc": "OP",
+      "cover": "github+Aoi-Hana-Song.jpg",
+      "album": "青い花",
+      "audio": {
+        "local": "青い花 - 空気公団",
+        "github": "",
+        "xiami": "1769010687",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "センティフォリア",
+      "singer": "Ceui",
+      "desc": "ED",
+      "cover": "github+Aoi-Hana-Song.jpg",
+      "album": "センティフォリア",
+      "audio": {
+        "local": "センティフォリア - Ceui",
+        "github": "",
+        "xiami": "1769034090",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
