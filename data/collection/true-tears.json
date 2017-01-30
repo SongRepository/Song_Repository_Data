@@ -1,0 +1,74 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "真实之泪",
+  "author": "",
+  "date": "2008",
+  "desc": "",
+  "cover": "github+true-tears-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "真实之泪",
+    "true tears"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "リフレクティア",
+      "singer": "eufonius",
+      "desc": "OP",
+      "cover": "github+true-tears-OP.jpg",
+      "album": "リフレクティア",
+      "audio": {
+        "local": "リフレクティア - eufonius",
+        "github": "",
+        "xiami": "1768933785",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "セカイノナミダ",
+      "singer": "结城アイラ",
+      "desc": "ED",
+      "cover": "github+true-tears-ED.jpg",
+      "album": "セカイノナミダ",
+      "audio": {
+        "local": "セカイノナミダ - 結城アイラ",
+        "github": "",
+        "xiami": "",
+        "douban": "451259gd848",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "そこにひとつだけ",
+      "singer": "结城アイラ",
+      "desc": "",
+      "cover": "github+true-tears-ED.jpg",
+      "album": "セカイノナミダ",
+      "audio": {
+        "local": "そこにひとつだけ - 結城アイラ",
+        "github": "",
+        "xiami": "",
+        "douban": "451260g552d",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
