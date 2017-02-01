@@ -263,24 +263,6 @@
         "local": "",
         "bilibili": ""
       }
-    },
-    {
-      "type": "",
-      "name": "",
-      "singer": "",
-      "desc": "",
-      "cover": "",
-      "album": "",
-      "audio": {
-        "local": "",
-        "xiami": "",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "local": "",
-        "bilibili": ""
-      }
     }
   ]
 }
