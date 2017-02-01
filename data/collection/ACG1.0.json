@@ -372,6 +372,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "REDLINE DAY",
+      "singer": "Rob Laufer",
+      "desc": "ED REDLINE",
+      "cover": "github+REDLINE-Song.jpg",
+      "album": "REDLINE オリジナルサウンドトラック",
+      "audio": {
+        "local": "Redline DAY - Rob Laufer",
+        "github": "",
+        "xiami": "1770455637",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
