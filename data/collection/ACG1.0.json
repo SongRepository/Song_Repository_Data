@@ -353,6 +353,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "青空loop",
+      "singer": "marble",
+      "desc": "OP <<君吻 pure rouge>>",
+      "cover": "github+Kimikiss-Pure-Rouge-Song.jpg",
+      "album": "青空loop",
+      "audio": {
+        "local": "青空loop - marble",
+        "github": "",
+        "xiami": "3339392",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
