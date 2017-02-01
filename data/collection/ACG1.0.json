@@ -391,6 +391,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "ユナイト",
+      "singer": "三澤紗千香",
+      "desc": "ED2 加速世界",
+      "cover": "github+Accel-World-ED2.jpg",
+      "album": "ユナイト",
+      "audio": {
+        "local": "ユナイト - 三澤紗千香",
+        "github": "",
+        "xiami": "1776418010",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
