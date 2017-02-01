@@ -1,0 +1,94 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "我的青春恋爱物语果然有问题",
+  "author": "渡航",
+  "date": "2013",
+  "desc": "",
+  "cover": "github+Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "我的青春恋爱物语果然有问题",
+    "我的青春恋爱物语果然有问题。",
+    "やはり俺の青春ラブコメはまちがっている。"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ユキトキ",
+      "singer": "やなぎなぎ",
+      "desc": "OP",
+      "cover": "github+Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Song.jpg",
+      "album": "ユキトキ",
+      "audio": {
+        "local": "ユキトキ - やなぎなぎ",
+        "github": "",
+        "xiami": "",
+        "douban": "1916683g57bb",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Hello Alone",
+      "singer": "雪之下雪乃（CV.早见沙织）、由比滨结衣（CV.东山奈央）",
+      "desc": "ED （第1－4话、第6－12话、OVA）",
+      "cover": "github+Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Song.jpg",
+      "album": "Hello Alone",
+      "audio": {
+        "local": "Hello Alone - 雪ノ下雪乃(CV.早見沙織),由比ヶ浜結衣(CV.東山奈央)",
+        "github": "",
+        "xiami": "",
+        "douban": "1929466g0a52",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Hello Alone -Yui Ballade-",
+      "singer": "由比滨结衣（CV.东山奈央）",
+      "desc": "ED （第5话）",
+      "cover": "github+Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Song.jpg",
+      "album": "Hello Alone",
+      "audio": {
+        "local": "Hello Alone -Yui Ballade- - 由比ヶ浜結衣(CV.東山奈央)",
+        "github": "",
+        "xiami": "",
+        "douban": "1929465gc196",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Hello Alone -Band arrange-",
+      "singer": "雪之下雪乃（CV.早见沙织）、由比滨结衣（CV.东山奈央）",
+      "desc": "ED （番外篇）",
+      "cover": "github+Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Song.jpg",
+      "album": "やはりこのキャラソンはまちがっている。",
+      "audio": {
+        "local": "Hello Alone -Band arrange- - 早見沙織,東山奈央",
+        "github": "",
+        "xiami": "1771963466",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
