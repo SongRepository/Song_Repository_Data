@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "只要你说你爱我",
+  "author": "叶月鼎",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Sukitte-Ii-na-yo-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "只要你说你爱我",
+    "好きっていいなよ。"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "「Friendship ～ for 好きっていいなよ。」",
+      "singer": "冈崎律子",
+      "desc": "OP",
+      "cover": "github+Sukitte-Ii-na-yo-Song.jpg",
+      "album": "好きっていいなよ。 music&drama collection CD vol.1",
+      "audio": {
+        "local": "「Friendship ～ for 好きっていいなよ。」 - 岡崎律子",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "28190034"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "slow dance",
+      "singer": "スネオヘアー",
+      "desc": "ED",
+      "cover": "github+Sukitte-Ii-na-yo-Song.jpg",
+      "album": "slow dance",
+      "audio": {
+        "local": "slow dance - スネオヘアー",
+        "github": "",
+        "xiami": "1771362607",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
