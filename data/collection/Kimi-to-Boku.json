@@ -1,0 +1,74 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "少年同盟",
+  "author": "堀田贵一",
+  "date": "2011,2012",
+  "desc": "",
+  "cover": "github+Kimi-to-Boku-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "少年同盟",
+    "君と僕。"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "バイバイ",
+      "singer": "7!!",
+      "desc": "OP",
+      "cover": "github+Kimi-to-Boku-Song.jpg",
+      "album": "バイバイ",
+      "audio": {
+        "local": "バイバイ - 7!!",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "873666"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "SORA",
+      "singer": "蒼井翔太",
+      "desc": "插曲",
+      "cover": "github+Kimi-to-Boku-Song.jpg",
+      "album": "「君と僕。」オリジナル・サウンドトラックCD",
+      "audio": {
+        "local": "SORA - 蒼井翔太",
+        "github": "",
+        "xiami": "1770875794",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "愛の言葉",
+      "singer": "7!!",
+      "desc": "",
+      "cover": "github+Kimi-to-Boku-Song.jpg",
+      "album": "バイバイ",
+      "audio": {
+        "local": "愛の言葉 - 7!!",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "873669"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
