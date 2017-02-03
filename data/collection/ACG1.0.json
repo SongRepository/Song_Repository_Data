@@ -410,6 +410,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "Forever...",
+      "singer": "savage genius",
+      "desc": "OP 武器种族传说",
+      "cover": "github+Erementar Gerad-Song.jpg",
+      "album": "Forever...",
+      "audio": {
+        "local": "Forever... - savage genius",
+        "github": "",
+        "xiami": "1768933822",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
