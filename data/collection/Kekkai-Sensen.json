@@ -15,7 +15,7 @@
       "name": "Hello,world!",
       "singer": "BUMP OF CHICKEN",
       "desc": "OP",
-      "cover": "github+Kekkai-Sensen-Song.png",
+      "cover": "github+Kekkai-Sensen-Song.jpg",
       "album": "Hello,world! / コロニー",
       "audio": {
         "local": "BUMP OF CHICKEN - Hello,world!",
@@ -33,7 +33,7 @@
       "name": "シュガーソングとビターステップ",
       "singer": "UNISON SQUARE GARDEN",
       "desc": "ED",
-      "cover": "github+Kekkai-Sensen-Song.png",
+      "cover": "github+Kekkai-Sensen-Song.jpg",
       "album": "シュガーソングとビターステップ",
       "audio": {
         "local": "UNISON SQUARE GARDEN - シュガーソングとビターステップ",
@@ -51,7 +51,7 @@
       "name": "シグナルABC",
       "singer": "UNISON SQUARE GARDEN",
       "desc": "",
-      "cover": "github+Kekkai-Sensen-Song.png",
+      "cover": "github+Kekkai-Sensen-Song.jpg",
       "album": "シュガーソングとビターステップ",
       "audio": {
         "local": "UNISON SQUARE GARDEN - シグナルABC",
@@ -69,7 +69,7 @@
       "name": "東京シナリオ",
       "singer": "UNISON SQUARE GARDEN",
       "desc": "",
-      "cover": "github+Kekkai-Sensen-Song.png",
+      "cover": "github+Kekkai-Sensen-Song.jpg",
       "album": "シュガーソングとビターステップ",
       "audio": {
         "local": "UNISON SQUARE GARDEN - 東京シナリオ",
