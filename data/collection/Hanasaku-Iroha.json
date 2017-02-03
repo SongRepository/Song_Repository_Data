@@ -1,0 +1,189 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "花开物语",
+  "author": "",
+  "date": "2011",
+  "desc": "",
+  "cover": "github+Hanasaku-Iroha-Cover2.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "花开物语",
+    "花开伊吕波",
+    "花咲くいろは"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ハナノイロ",
+      "singer": "nano.RIPE",
+      "desc": "OP1",
+      "cover": "github+Hanasaku-Iroha-Song.jpg",
+      "album": "ハナノイロ",
+      "audio": {
+        "local": "ハナノイロ - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1802644g2a50",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Hazy",
+      "singer": "スフィア",
+      "desc": "ED1",
+      "cover": "github+Hanasaku-Iroha-Song.jpg",
+      "album": "Hazy",
+      "audio": {
+        "local": "Hazy - スフィア",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "821293"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "面影ワープ",
+      "singer": "nano.RIPE",
+      "desc": "OP2",
+      "cover": "github+Hanasaku-Iroha-Song.jpg",
+      "album": "面影ワープ",
+      "audio": {
+        "local": "面影ワープ - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1697600gac88",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "はなさくいろは",
+      "singer": "クラムボン",
+      "desc": "ED2",
+      "cover": "github+Hanasaku-Iroha-Song.jpg",
+      "album": "はなさくいろは",
+      "audio": {
+        "local": "はなさくいろは - クラムボン",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "762044"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "リップシンク",
+      "singer": "nano.RIPE",
+      "desc": "第1话ED插入歌",
+      "cover": "github+Hanasaku-Iroha-Song2.jpg",
+      "album": "细胞キオク",
+      "audio": {
+        "local": "リップシンク - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1693971g89c7",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "月影とブランコ",
+      "singer": "nano.RIPE",
+      "desc": "第6话ED主题歌、第9话主题歌",
+      "cover": "github+Hanasaku-Iroha-Song2.jpg",
+      "album": "细胞キオク",
+      "audio": {
+        "local": "月影とブランコ - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1693970g7ac8",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "梦路",
+      "singer": "nano.RIPE",
+      "desc": "第8、26话ED主题歌",
+      "cover": "github+Hanasaku-Iroha-Song2.jpg",
+      "album": "パトリシア",
+      "audio": {
+        "local": "梦路 - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1695958g775b",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "细胞キオク",
+      "singer": "nano.RIPE",
+      "desc": "第11话ED主题歌",
+      "cover": "github+Hanasaku-Iroha-Song2.jpg",
+      "album": "细胞キオク",
+      "audio": {
+        "local": "细胞キオク - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1693969g454d",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "パトリシア",
+      "singer": "nano.RIPE",
+      "desc": "第22话ED插入歌",
+      "cover": "github+Hanasaku-Iroha-Song2.jpg",
+      "album": "パトリシア",
+      "audio": {
+        "local": "パトリシア - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1695957g02a5",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
