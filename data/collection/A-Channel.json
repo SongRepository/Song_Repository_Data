@@ -1,0 +1,75 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "A频道",
+  "author": "黑田bb",
+  "date": "2011",
+  "desc": "",
+  "cover": "github+A-Channel-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "A频道",
+    "A Channel",
+    "Aチャンネル"
+  ],
+  "song": [
+    {
+      "type": "OP",
+      "name": "Morning Arch",
+      "singer": "河野マリナ",
+      "desc": "OP",
+      "cover": "github+A-Channel-Song.jpg",
+      "album": "Morning Arch",
+      "audio": {
+        "local": "Morning Arch - 河野マリナ",
+        "github": "",
+        "xiami": "1770184011",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ハミングガール",
+      "singer": "悠木碧(トオル),福原香织(るん),寿美菜子(ユー子),内山夕実(ナギ)",
+      "desc": "ED （第1-11话ED）",
+      "cover": "github+A-Channel-Song.jpg",
+      "album": "Aチャンネル 1",
+      "audio": {
+        "local": "ハミングガール - MONACA",
+        "github": "",
+        "xiami": "1770234706",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "はるかぜの化学",
+      "singer": "悠木碧(トオル),福原香织(るん),寿美菜子(ユー子),内山夕実(ナギ)",
+      "desc": "ED （第12话ED，插曲第1话）",
+      "cover": "github+A-Channel-Song.jpg",
+      "album": "Aチャンネル 1",
+      "audio": {
+        "local": "はるかぜの化学 - MONACA",
+        "github": "",
+        "xiami": "1770234707",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
