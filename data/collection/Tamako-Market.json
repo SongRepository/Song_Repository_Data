@@ -1,0 +1,95 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "玉子市场",
+  "author": "京都动画",
+  "date": "2013",
+  "desc": "",
+  "cover": "github+Tamako-Market-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "玉子市场",
+    "たまこまーけっと",
+    "Tamako Market",
+    "京都动画"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ドラマチックマーケットライド",
+      "singer": "洲崎绫",
+      "desc": "OP",
+      "cover": "github+Tamako-Market-OP.jpg",
+      "album": "ドラマチックマーケットライド",
+      "audio": {
+        "local": "ドラマチックマーケットライド - 洲崎綾",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "26219823"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ねぐせ",
+      "singer": "洲崎绫",
+      "desc": "ED",
+      "cover": "github+Tamako-Market-ED.jpg",
+      "album": "ねぐせ",
+      "audio": {
+        "local": "ねぐせ (Neguse) - 洲崎綾",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "26125629"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "プリンシプル",
+      "singer": "洲崎绫",
+      "desc": "剧场版主题歌",
+      "cover": "github+Tamako-Market-Song.jpg",
+      "album": "映画『たまこラブストーリー』主題歌 「プリンシプル」",
+      "audio": {
+        "local": "プリンシプル - 洲崎綾",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "28457716"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "恋の歌",
+      "singer": "ダイナマイトビーンズ",
+      "desc": "TV动画第9话、剧场版《玉子爱情故事》",
+      "cover": "github+Tamako-Market-Song.jpg",
+      "album": "TVアニメ「たまこまーけっと」&映画「たまこラブストーリー」劇中曲コンピレーションCD 星とピエロ",
+      "audio": {
+        "local": "恋の歌 - ダイナマイトビーンズ",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "28949632"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
