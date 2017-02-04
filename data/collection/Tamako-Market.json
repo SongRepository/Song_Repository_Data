@@ -74,6 +74,25 @@
     },
     {
       "type": "ost",
+      "name": "こいのうた",
+      "singer": "洲崎绫",
+      "desc": "ED 剧场版",
+      "cover": "github+Tamako-Market-Song.jpg",
+      "album": "映画『たまこラブストーリー』主題歌 「プリンシプル」",
+      "audio": {
+        "local": "こいのうた - 洲崎綾",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "28457717"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
       "name": "恋の歌",
       "singer": "ダイナマイトビーンズ",
       "desc": "TV动画第9话、剧场版《玉子爱情故事》",
