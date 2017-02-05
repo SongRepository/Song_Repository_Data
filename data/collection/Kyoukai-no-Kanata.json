@@ -1,0 +1,93 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "境界的彼方",
+  "author": "鸟居なごむ",
+  "date": "2013",
+  "desc": "",
+  "cover": "github+Kyoukai-no-Kanata-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "境界的彼方",
+    "境界の彼方"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "境界の彼方",
+      "singer": "茅原实里",
+      "desc": "OP",
+      "cover": "github+Kyoukai-no-Kanata-OP.jpg",
+      "album": "境界の彼方",
+      "audio": {
+        "local": "境界の彼方 - 茅原実里",
+        "github": "",
+        "xiami": "",
+        "douban": "2016389g24dc",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Daisy",
+      "singer": "STEREO DIVE FOUNDATION",
+      "desc": "ED",
+      "cover": "github+Kyoukai-no-Kanata-ED.jpg",
+      "album": "Daisy",
+      "audio": {
+        "local": "Daisy - STEREO DIVE FOUNDATION",
+        "github": "",
+        "xiami": "",
+        "douban": "2016352g50b2",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "约束の绊",
+      "singer": "妖梦讨伐队(栗山未来(CV.种田梨沙)、名瀬美月(CV.茅原实里)、新堂爱(CV.山冈百合)",
+      "desc": "插入歌 TV动画第6集",
+      "cover": "github+Kyoukai-no-Kanata-OST.jpg",
+      "album": "TVアニメ 境界の彼方 オリジナルサウンドトラック",
+      "audio": {
+        "local": "約束の絆 - 種田梨沙,茅原実里,山岡ゆり",
+        "github": "",
+        "xiami": "",
+        "douban": "2016346g7f2b",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ポピーの帰り道",
+      "singer": "新堂爱(CV.山冈百合)",
+      "desc": "ED 短篇动画《境界的彼方 偶像裁判！》",
+      "cover": "github+Kyoukai-no-Kanata-OST.jpg",
+      "album": "TVアニメ 境界の彼方 オリジナルサウンドトラック",
+      "audio": {
+        "local": "ポピーの帰り道 - 山岡ゆり",
+        "github": "",
+        "xiami": "",
+        "douban": "2016344g91a0",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
