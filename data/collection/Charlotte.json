@@ -1,0 +1,94 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "Charlotte",
+  "author": "P.A.WORKS",
+  "date": "2015",
+  "desc": "",
+  "cover": "github+Charlotte-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "Charlotte",
+    "夏洛特",
+    "P.A.WORKS"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Bravely You",
+      "singer": "Lia",
+      "desc": "OP （第1~9话、第12~13话、特别篇）",
+      "cover": "github+Charlotte-Song.jpg",
+      "album": "Bravely You / 灼け落ちない翼",
+      "audio": {
+        "local": "Bravely You - Lia",
+        "github": "",
+        "xiami": "1774577532",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "灼け落ちない翼",
+      "singer": "多田葵",
+      "desc": "ED （第2话、第5话、第7~12话、特别篇）",
+      "cover": "github+Charlotte-Song.jpg",
+      "album": "Bravely You / 灼け落ちない翼",
+      "audio": {
+        "local": "灼け落ちない翼 - 多田葵",
+        "github": "",
+        "xiami": "1774577533",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "楽園まで",
+      "singer": "西森柚咲（CV.内田真礼）",
+      "desc": "ED （第3~4话）",
+      "cover": "github+Charlotte-Song.jpg",
+      "album": "楽園まで / 発熱デイズ",
+      "audio": {
+        "local": "楽園まで - How-Low-Hello",
+        "github": "",
+        "xiami": "1774565944",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君の文字",
+      "singer": "熊木杏里",
+      "desc": "ED （第13话）",
+      "cover": "github+Charlotte-Song.jpg",
+      "album": "Charlotte オリジナルサウンドトラック",
+      "audio": {
+        "local": "君の文字 - 熊木杏里",
+        "github": "",
+        "xiami": "1775038276",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
