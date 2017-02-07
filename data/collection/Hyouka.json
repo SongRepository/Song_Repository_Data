@@ -1,0 +1,114 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "冰菓",
+  "author": "米泽穗信",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Hyouka-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "冰菓",
+    "氷菓",
+    "Hyouka",
+    "京都动画"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "优しさの理由",
+      "singer": "ChouCho",
+      "desc": "OP1",
+      "cover": "github+Hyouka-OP1.jpg",
+      "album": "优しさの理由",
+      "audio": {
+        "local": "優しさの理由 - ChouCho",
+        "github": "",
+        "xiami": "",
+        "douban": "1885231gad61",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "まどろみの约束",
+      "singer": "千反田爱瑠(佐藤聪美)、伊原摩耶花(茅野爱衣)",
+      "desc": "ED1",
+      "cover": "github+Hyouka-ED1.jpg",
+      "album": "まどろみの约束",
+      "audio": {
+        "local": "まどろみの約束 - 佐藤聡美,茅野愛衣",
+        "github": "",
+        "xiami": "",
+        "douban": "1848727gfa6a",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "未完成ストライド",
+      "singer": "こだまさおり",
+      "desc": "OP2",
+      "cover": "github+Hyouka-OP2.jpg",
+      "album": "未完成ストライド",
+      "audio": {
+        "local": "未完成ストライド - こだまさおり",
+        "github": "",
+        "xiami": "1771188994",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "君にまつわるミステリー",
+      "singer": "千反田爱瑠(佐藤聪美)、伊原摩耶花(茅野爱衣)",
+      "desc": "ED2",
+      "cover": "github+Hyouka-ED2.jpg",
+      "album": "君にまつわるミステリー",
+      "audio": {
+        "local": "君にまつわるミステリー - 佐藤聡美,茅野愛衣",
+        "github": "",
+        "xiami": "1771188997",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "シネマスカイ",
+      "singer": "こだまさおり",
+      "desc": "",
+      "cover": "github+Hyouka-OP2.jpg",
+      "album": "未完成ストライド",
+      "audio": {
+        "local": "シネマスカイ - こだまさおり",
+        "github": "",
+        "xiami": "1771188996",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
