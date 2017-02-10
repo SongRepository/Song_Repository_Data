@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "散华礼弥",
+  "author": "服部充",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Sankarea-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "散华礼弥",
+    "さんかれあ"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "絵空事",
+      "singer": "nano.RIPE",
+      "desc": "OP",
+      "cover": "github+Sankarea-OP.jpg",
+      "album": "絵空事",
+      "audio": {
+        "local": "絵空事 - nano.RIPE",
+        "github": "",
+        "xiami": "",
+        "douban": "1838420g9346",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Above your hand",
+      "singer": "Annabel",
+      "desc": "ED",
+      "cover": "github+Sankarea-ED.jpg",
+      "album": "Above your hand",
+      "audio": {
+        "local": "Above your hand - Annabel",
+        "github": "",
+        "xiami": "1770998834",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
