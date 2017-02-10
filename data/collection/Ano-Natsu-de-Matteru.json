@@ -1,0 +1,93 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "在盛夏等待",
+  "author": "J.C.STAFF",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Ano-Natsu-de-Matteru-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "在盛夏等待",
+    "あの夏で待ってる"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "sign",
+      "singer": "Ray",
+      "desc": "OP",
+      "cover": "github+Ano-Natsu-de-Matteru-OP.jpg",
+      "album": "sign",
+      "audio": {
+        "local": "sign - Ray",
+        "github": "",
+        "xiami": "1770736469",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ビードロ模様",
+      "singer": "やなぎなぎ",
+      "desc": "ED",
+      "cover": "github+Ano-Natsu-de-Matteru-ED.jpg",
+      "album": "ビードロ模様",
+      "audio": {
+        "local": "ビードロ模様 - やなぎなぎ",
+        "github": "",
+        "xiami": "",
+        "douban": "1878297g03e1",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "季节のシャッター",
+      "singer": "Ray",
+      "desc": "OVA",
+      "cover": "github+Ano-Natsu-de-Matteru-OVA.jpg",
+      "album": "季節のシャッター / point at infinity",
+      "audio": {
+        "local": "季節のシャッター - Ray",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "29027215"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "point at infinity",
+      "singer": "やなぎなぎ",
+      "desc": "OVA",
+      "cover": "github+Ano-Natsu-de-Matteru-OVA.jpg",
+      "album": "季節のシャッター / point at infinity",
+      "audio": {
+        "local": "point at infinity - やなぎなぎ",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "29027218"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
