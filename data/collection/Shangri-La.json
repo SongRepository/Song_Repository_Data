@@ -1,0 +1,74 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "香格里拉",
+  "author": "GONZO",
+  "date": "2009",
+  "desc": "",
+  "cover": "github+Shangri-La-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "香格里拉",
+    "シャングリ・ラ"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "キミシニタモウコトナカレ",
+      "singer": "May'n",
+      "desc": "OP",
+      "cover": "github+Shangri-La-Song.jpg",
+      "album": "キミシニタモウコトナカレ",
+      "audio": {
+        "local": "キミシニタモウコトナカレ - May'n",
+        "github": "",
+        "xiami": "",
+        "douban": "1531525gd082",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "はじまりの朝に光あれ。",
+      "singer": "黒石ひとみ",
+      "desc": "ED （1-2话、4-6话、8话、10话、13话、15话、17-19话、21话、23话）",
+      "cover": "github+Shangri-La-Song.jpg",
+      "album": "Angel Feather Voice 2",
+      "audio": {
+        "local": "はじまりの朝に光あれ. - 黒石ひとみ",
+        "github": "",
+        "xiami": "1770668464",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "m-revolution",
+      "singer": "May'n",
+      "desc": "",
+      "cover": "github+Shangri-La-Song.jpg",
+      "album": "キミシニタモウコトナカレ",
+      "audio": {
+        "local": "m-revolution - May'n",
+        "github": "",
+        "xiami": "",
+        "douban": "1531526g6ad8",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
