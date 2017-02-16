@@ -1,0 +1,169 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "只有神知道的世界",
+  "author": "若木民喜",
+  "date": "2010,2011,2013",
+  "desc": "",
+  "cover": "github+Kami-nomi-zo-Shiru-Sekai-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "只有神知道的世界",
+    "神のみぞ知るセカイ"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "God only knows 第三幕 (O.A.version)",
+      "singer": "ELISA",
+      "desc": "OP 第一季",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-OP1.jpg",
+      "album": "God only knows~集積回路の夢旅人~",
+      "audio": {
+        "local": "God only knows 第三幕 (O.A.version) - ELISA",
+        "github": "",
+        "xiami": "1770134213",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "コイノシルシ",
+      "singer": "竹達彩奈;悠木碧;東山奈央;花澤香菜",
+      "desc": "ED 第一季",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-ED1.jpg",
+      "album": "コイノシルシ",
+      "audio": {
+        "local": "コイノシルシ - 竹達彩奈,悠木碧,東山奈央",
+        "github": "",
+        "xiami": "1769869451",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Oh!まい☆GOD!!",
+      "singer": "伊藤かな恵",
+      "desc": "插入歌 第一季 第8话",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-CD.0.jpg",
+      "album": "神のみキャラCD.0　エルシィ starring 伊藤かな恵",
+      "audio": {
+        "local": "Oh!まい☆GOD!! - 伊藤かな恵",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "569005"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ハッピークレセント",
+      "singer": "東山奈央",
+      "desc": "第一季 第5、6话插入歌，第7话ED",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-CD.3.jpg",
+      "album": "神のみキャラCD.3　中川かのん starring 東山奈央",
+      "audio": {
+        "local": "ハッピークレセント - 東山奈央",
+        "github": "",
+        "xiami": "1769869957",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ALL 4 YOU",
+      "singer": "東山奈央",
+      "desc": "插入歌 第一季 第5话，第6话",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-Birth.jpg",
+      "album": "Birth",
+      "audio": {
+        "local": "ALL 4 YOU - 東山奈央",
+        "github": "",
+        "xiami": "1770006472",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "らぶこーる",
+      "singer": "東山奈央",
+      "desc": "插入歌 第一季 第7话",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-Birth.jpg",
+      "album": "Birth",
+      "audio": {
+        "local": "らぶこーる - 東山奈央",
+        "github": "",
+        "xiami": "1770006476",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "A Whole New World God Only Knows",
+      "singer": "ELISA & Lia",
+      "desc": "OP 第二季",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-OP2.jpg",
+      "album": "A Whole New World God Only Knows",
+      "audio": {
+        "local": "A Whole New World God Only Knows - ELISA & Lia",
+        "github": "",
+        "xiami": "",
+        "douban": "1651520g03bd",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "アイノヨカン",
+      "singer": "神のみぞ知り隊 (伊藤かな恵;早見沙織;小清水亜美;阿澄佳奈;豊崎愛生)",
+      "desc": "ED 第二季",
+      "cover": "github+Kami-nomi-zo-Shiru-Sekai-ED2.jpg",
+      "album": "アイノヨカン",
+      "audio": {
+        "local": "アイノヨカン - 神のみぞ知り隊",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "4926361"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
