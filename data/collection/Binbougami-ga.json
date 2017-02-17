@@ -1,0 +1,75 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "贫乏神来了",
+  "author": "助野嘉昭",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Binbougami-ga-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "贫乏神来了",
+    "贫乏神来了!",
+    "貧乏神が！"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Make My Day!",
+      "singer": "ピコ",
+      "desc": "OP",
+      "cover": "github+Binbougami-ga-Song.jpg",
+      "album": "Make my day!",
+      "audio": {
+        "local": "Make My Day! - ピコ",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "430939"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "恋暴動",
+      "singer": "HAPPY BIRTHDAY",
+      "desc": "ED",
+      "cover": "github+Binbougami-ga-Song.jpg",
+      "album": "恋暴動/DAIKIRAI-DAISUKI",
+      "audio": {
+        "local": "恋暴动 - HAPPY BIRTHDAY",
+        "github": "",
+        "xiami": "1771166875",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "『ウラハラサカサ』",
+      "singer": "红叶(内山夕实)&樱市子(花泽香菜)",
+      "desc": "",
+      "cover": "github+Binbougami-ga-Song.jpg",
+      "album": "Happy Energy Assortment Gift",
+      "audio": {
+        "local": "『ウラハラサカサ』 - 花澤香菜,内山夕実",
+        "github": "",
+        "xiami": "1771485088",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
