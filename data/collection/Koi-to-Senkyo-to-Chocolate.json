@@ -1,0 +1,74 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "恋爱与选举与巧克力",
+  "author": "",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+Koi-to-Senkyo-to-Chocolate-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "恋爱与选举与巧克力",
+    "恋と选挙とチョコレート"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "シグナルグラフ",
+      "singer": "Annabel",
+      "desc": "OP",
+      "cover": "github+Koi-to-Senkyo-to-Chocolate-OP.jpg",
+      "album": "シグナルグラフ",
+      "audio": {
+        "local": "シグナルグラフ - Annabel",
+        "github": "",
+        "xiami": "1771155947",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "風のなかのプリムローズ",
+      "singer": "Ceui",
+      "desc": "ED",
+      "cover": "github+Koi-to-Senkyo-to-Chocolate-ED.jpg",
+      "album": "風のなかのプリムローズ",
+      "audio": {
+        "local": "风のなかのプリムローズ - Ceui",
+        "github": "",
+        "xiami": "1771159538",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ハローメロウ",
+      "singer": "Annabel",
+      "desc": "插入歌 第1话",
+      "cover": "github+Koi-to-Senkyo-to-Chocolate-OST.jpg",
+      "album": "TVアニメ 『恋と選挙とチョコレート』MUSIC SELECTION",
+      "audio": {
+        "local": "ハローメロウ - Annabel",
+        "github": "",
+        "xiami": "1771330026",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
