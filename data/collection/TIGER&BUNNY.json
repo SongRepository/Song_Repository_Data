@@ -1,0 +1,93 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "TIGER & BUNNY",
+  "author": "日升动画",
+  "date": "2011",
+  "desc": "",
+  "cover": "github+TIGER&BUNNY-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "TIGER & BUNNY",
+    "老虎和兔子"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "オリオンをなぞる",
+      "singer": "UNISON SQUARE GARDEN",
+      "desc": "OP1",
+      "cover": "github+TIGER&BUNNY-OP1.jpg",
+      "album": "オリオンをなぞる",
+      "audio": {
+        "local": "オリオンをなぞる - UNISON SQUARE GARDEN",
+        "github": "",
+        "xiami": "1772493828",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "星のすみか",
+      "singer": "藍坊主",
+      "desc": "ED1",
+      "cover": "github+TIGER&BUNNY-ED1.jpg",
+      "album": "星のすみか",
+      "audio": {
+        "local": "星のすみか - 藍坊主",
+        "github": "",
+        "xiami": "1770185798",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "ミッシングリンク",
+      "singer": "NOVELS",
+      "desc": "OP2",
+      "cover": "github+TIGER&BUNNY-OP2.jpg",
+      "album": "ミッシングリンク",
+      "audio": {
+        "local": "ミッシングリンク - NOVELS",
+        "github": "",
+        "xiami": "1770386342",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "マインドゲーム",
+      "singer": "珠妃",
+      "desc": "ED2",
+      "cover": "github+TIGER&BUNNY-ED2.jpg",
+      "album": "マインドゲーム",
+      "audio": {
+        "local": "マインドゲーム - 珠妃",
+        "github": "",
+        "xiami": "1770394610",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
