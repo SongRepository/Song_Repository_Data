@@ -1,0 +1,112 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "東京喰種",
+  "author": "石田翠",
+  "date": "2014,2015",
+  "desc": "",
+  "cover": "github+Tokyo-Ghoul-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "東京喰種",
+    "东京食尸鬼"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "unravel",
+      "singer": "TK from 凛として時雨",
+      "desc": "OP 第一季",
+      "cover": "github+Tokyo-Ghoul-OP1.jpg",
+      "album": "unravel",
+      "audio": {
+        "local": "unravel - TK from 凛として時雨",
+        "github": "",
+        "xiami": "1774208517",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "聖者たち",
+      "singer": "People In The Box",
+      "desc": "ED 第一季",
+      "cover": "github+Tokyo-Ghoul-ED1.jpg",
+      "album": "聖者たち",
+      "audio": {
+        "local": "聖者たち - People In The Box",
+        "github": "",
+        "xiami": "1773321542",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "無能",
+      "singer": "österreich",
+      "desc": "OP 第二季",
+      "cover": "github+Tokyo-Ghoul-OP2.jpg",
+      "album": "無能",
+      "audio": {
+        "local": "無能 - österreich",
+        "github": "",
+        "xiami": "1774020307",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "季節は次々死んでいく",
+      "singer": "amazarashi",
+      "desc": "ED 第二季",
+      "cover": "github+",
+      "album": "季節は次々死んでいく",
+      "audio": {
+        "local": "季節は次々死んでいく - amazarashi",
+        "github": "",
+        "xiami": "1773867651",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "On My Own",
+      "singer": "Katherine Liner",
+      "desc": "插入歌 第二季 第一话",
+      "cover": "github+Tokyo-Ghoul-OST.jpg",
+      "album": "東京喰種 オリジナルサウンドトラック",
+      "audio": {
+        "local": "On My Own - Donna Burke",
+        "github": "",
+        "xiami": "1774008449",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
