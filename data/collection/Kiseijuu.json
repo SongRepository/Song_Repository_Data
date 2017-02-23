@@ -1,0 +1,94 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "寄生兽：生命的准则",
+  "author": "岩明均",
+  "date": "2014",
+  "desc": "",
+  "cover": "github+Kiseijuu-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "寄生兽",
+    "寄生獣",
+    "寄生獣 セイの格率"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Let Me Hear",
+      "singer": "Fear, and Loathing in Las Vegas",
+      "desc": "OP",
+      "cover": "github+Kiseijuu-OP.jpg",
+      "album": "Let Me Hear",
+      "audio": {
+        "local": "Let Me Hear - Fear, and Loathing in Las Vegas",
+        "github": "",
+        "xiami": "",
+        "douban": "2196678g2481",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "It's The Right Time",
+      "singer": "三浦大知",
+      "desc": "ED",
+      "cover": "github+Kiseijuu-ED.jpg",
+      "album": "ふれあうだけで ~Always with you~ / It's The Right Time",
+      "audio": {
+        "local": "IT'S THE RIGHT TIME - 三浦大知",
+        "github": "",
+        "xiami": "",
+        "douban": "2180246g560a",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "BLISS",
+      "singer": "Ken Arai",
+      "desc": "",
+      "cover": "github+Kiseijuu-OST.jpg",
+      "album": "寄生獣 セイの格率 オリジナル・サウンドトラック",
+      "audio": {
+        "local": "BLISS - Ken Arai",
+        "github": "",
+        "xiami": "1773747639",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "NEXT TO YOU",
+      "singer": "Ken Arai",
+      "desc": "",
+      "cover": "github+Kiseijuu-OST.jpg",
+      "album": "寄生獣 セイの格率 オリジナル・サウンドトラック",
+      "audio": {
+        "local": "NEXT TO YOU - Ken Arai",
+        "github": "",
+        "xiami": "1773747639",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
