@@ -1,0 +1,190 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "高达创战者",
+  "author": "日升动画",
+  "date": "2013,2014",
+  "desc": "",
+  "cover": "github+Gundam-Build-Fighters-Cover1.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "高达创战者",
+    "高达创战者TRY",
+    "高达",
+    "机动战士高达"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ニブンノイチ",
+      "singer": "BACK-ON",
+      "desc": "OP1 第一季（第02－13话）",
+      "cover": "github+Gundam-Build-Fighters-OP1.jpg",
+      "album": "ニブンノイチ/INFINITY",
+      "audio": {
+        "local": "ニブンノイチ-BACK-ON",
+        "github": "",
+        "xiami": "1772271613",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Imagination > Reality",
+      "singer": "AiRI",
+      "desc": "ED1 第一季（第2－13话）",
+      "cover": "github+Gundam-Build-Fighters-ED1.jpg",
+      "album": "Imagination>Reality",
+      "audio": {
+        "local": "Imagination ＞ Reality - AiRI",
+        "github": "",
+        "xiami": "1772352744",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "wimp ft. Lil' Fang (from FAKY)",
+      "singer": "BACK-ON",
+      "desc": "OP2 第一季（第14－24话）",
+      "cover": "github+Gundam-Build-Fighters-OP2.jpg",
+      "album": "wimp ft.Lil'Fang",
+      "audio": {
+        "local": "wimp ft. Lil' Fang (from FAKY)-BACK-ON",
+        "github": "",
+        "xiami": "1772539470",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "半パン魂",
+      "singer": "前山田健一",
+      "desc": "ED2 第一季（第14－25话）",
+      "cover": "github+Gundam-Build-Fighters-ED2.jpg",
+      "album": "半パン魂",
+      "audio": {
+        "local": "半パン魂 - 前山田健一",
+        "github": "",
+        "xiami": "1772507868",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "セルリアン",
+      "singer": "BACK-ON",
+      "desc": "OP1 第二季（第2－13话，第1话作为片尾曲使用）",
+      "cover": "github+Gundam-Build-Fighters-OP3.jpg",
+      "album": "セルリアン / Silent Trigger",
+      "audio": {
+        "local": "セルリアン-BACK-ON",
+        "github": "",
+        "xiami": "1773687250",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "アメイジング ザ ワールド",
+      "singer": "SCREEN mode",
+      "desc": "ED1 第二季（第2－13话）",
+      "cover": "github+Gundam-Build-Fighters-ED3.jpg",
+      "album": "アメイジング ザ ワールド",
+      "audio": {
+        "local": "アメイジング ザ ワールド - SCREEN mode",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "29719361"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Just Fly Away",
+      "singer": "EDGE of LIFE",
+      "desc": "OP2 第二季（第14－25话）",
+      "cover": "github+Gundam-Build-Fighters-OP4.jpg",
+      "album": "Just Fly Away",
+      "audio": {
+        "local": "Just Fly Away-EDGE of LIFE",
+        "github": "",
+        "xiami": "1774036790",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "迷々コンパスはいらない",
+      "singer": "StylipS",
+      "desc": "ED2 第二季（第14－25话）",
+      "cover": "github+Gundam-Build-Fighters-ED4.jpg",
+      "album": "迷々コンパスはいらない",
+      "audio": {
+        "local": "迷々コンパスはいらない - StylipS",
+        "github": "",
+        "xiami": "1774007514",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "INFINITY",
+      "singer": "BACK-ON",
+      "desc": "PSV游戏GUNDAM BREAKER主题曲",
+      "cover": "github+Gundam-Build-Fighters-OP1.jpg",
+      "album": "ニブンノイチ/INFINITY",
+      "audio": {
+        "local": "INFINITY-BACK-ON",
+        "github": "",
+        "xiami": "1772271614",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
