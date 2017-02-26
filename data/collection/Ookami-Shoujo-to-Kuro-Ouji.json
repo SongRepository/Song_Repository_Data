@@ -1,0 +1,74 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "狼少女与黑王子",
+  "author": "八田鲇子",
+  "date": "2014",
+  "desc": "",
+  "cover": "github+Ookami-Shoujo-to-Kuro-Ouji-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "狼少女与黑王子",
+    "オオカミ少女と黒王子"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "LOVE GOOD TIME",
+      "singer": "SpecialThanks",
+      "desc": "OP",
+      "cover": "github+Ookami-Shoujo-to-Kuro-Ouji-OP.jpg",
+      "album": "LOVE GOOD TIME",
+      "audio": {
+        "local": "LOVE GOOD TIME - SpecialThanks",
+        "github": "",
+        "xiami": "1773680049",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "オオカミハート",
+      "singer": "ORESAMA",
+      "desc": "ED",
+      "cover": "github+Ookami-Shoujo-to-Kuro-Ouji-ED.jpg",
+      "album": "オオカミハート",
+      "audio": {
+        "local": "オオカミハート - ORESAMA",
+        "github": "",
+        "xiami": "1773659428",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "全然気にしてないから僕のことは気にしないで",
+      "singer": "ORESAMA",
+      "desc": "",
+      "cover": "github+Ookami-Shoujo-to-Kuro-Ouji-ED.jpg",
+      "album": "オオカミハート",
+      "audio": {
+        "local": "全然気にしてないから僕のことは気にしないで - ORESAMA",
+        "github": "",
+        "xiami": "1773659430",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
