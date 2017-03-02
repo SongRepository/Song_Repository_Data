@@ -429,6 +429,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "Happy Sunshine",
+      "singer": "伊藤かな恵",
+      "desc": "ED 玩伴猫耳娘（第4话、第7话、第11话）",
+      "cover": "github+Asobi-ni-Iku-yo-Happy-Sunshine.jpg",
+      "album": "Happy Sunshine",
+      "audio": {
+        "local": "Happy Sunshine - 伊藤かな恵",
+        "github": "",
+        "xiami": "",
+        "douban": "1827684g9bdf",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
