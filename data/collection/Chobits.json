@@ -1,0 +1,93 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "人型电脑天使心",
+  "author": "CLAMP",
+  "date": "2002",
+  "desc": "",
+  "cover": "github+Chobits-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "Chobits",
+    "人型电脑天使心"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Let Me Be With You",
+      "singer": "ROUND TABLE",
+      "desc": "OP",
+      "cover": "github+Chobits-OP.jpg",
+      "album": "ちょびっツ - Let Me Be With You",
+      "audio": {
+        "local": "Let Me Be With You - ROUND TABLE",
+        "github": "",
+        "xiami": "3384093",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Raison d'être",
+      "singer": "田中理恵",
+      "desc": "ED (第1-14话、27话)",
+      "cover": "github+Chobits-ED1.jpg",
+      "album": "ちょびっツ - Raison d'être",
+      "audio": {
+        "local": "Raison d'être - 田中理恵",
+        "github": "",
+        "xiami": "1769220618",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ニンギョヒメ",
+      "singer": "田中理恵",
+      "desc": "ED (第15-25话)",
+      "cover": "github+Chobits-ED2.jpg",
+      "album": "ちょびっツ - ニンギョヒメ",
+      "audio": {
+        "local": "ニンギョヒメ - 田中理恵",
+        "github": "",
+        "xiami": "1770013605",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Sing a Song",
+      "singer": "杉田智和",
+      "desc": "",
+      "cover": "github+Chobits-OST.jpg",
+      "album": "ちょびっツ キャラクターソング・コレクション",
+      "audio": {
+        "local": "Sing a Song - 杉田智和",
+        "github": "",
+        "xiami": "1770044467",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
