@@ -1,0 +1,228 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "游戏王-怪兽之决斗",
+  "author": "高桥和希",
+  "date": "2000",
+  "desc": "",
+  "cover": "github+Yu-Gi-Oh-Duel-Monsters-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "遊☆戯☆王デュエルモンスターズ",
+    "游戏王-怪兽之决斗",
+    "游戏王",
+    "游戏王DM"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Voice",
+      "singer": "Cloud",
+      "desc": "OP（第1话 - 第48话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Voice - Cloud",
+        "github": "",
+        "xiami": "1769238085",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "元気のシャワー",
+      "singer": "前田亜季",
+      "desc": "ED （第1话 - 第48话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "元気のシャワー - 前田亜季",
+        "github": "",
+        "xiami": "1769238086",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Shuffle",
+      "singer": "奥井雅美",
+      "desc": "OP （第49话 - 第80话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Shuffle - 奥井雅美",
+        "github": "",
+        "xiami": "1769238087",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "あの日の午後",
+      "singer": "奥井雅美",
+      "desc": "ED （第49话 - 第80话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "あの日の午后 - 奥井雅美",
+        "github": "",
+        "xiami": "1769238088",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Wild Drive",
+      "singer": "永井真人",
+      "desc": "OP （第81话 - 第131话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Wild Drive - 永井真人",
+        "github": "",
+        "xiami": "1769238089",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "楽園",
+      "singer": "Cave",
+      "desc": "ED （第81话 - 第131话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "楽园 - Cave",
+        "github": "",
+        "xiami": "1769238090",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Warriors",
+      "singer": "生沢佑一",
+      "desc": "OP （第132话 - 第189话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Warriors - 生沢佑一",
+        "github": "",
+        "xiami": "1769238091",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "あふれる感情がとまらない",
+      "singer": "生沢佑一",
+      "desc": "ED （第132话 - 第189话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "あふれる感情がとまらない - 生沢佑一",
+        "github": "",
+        "xiami": "1769238092",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "op",
+      "name": "Overlap",
+      "singer": "kimeru",
+      "desc": "OP （第190话 - 第224话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Overlap - kimeru",
+        "github": "",
+        "xiami": "1769238093",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Eye's",
+      "singer": "生沢佑一",
+      "desc": "ED （第190话 - 第224话）",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Eye's - 生沢佑一",
+        "github": "",
+        "xiami": "1769238094",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Fire",
+      "singer": "Blaze",
+      "desc": "劇場用アニメ『光のピラミッド』テーマ曲",
+      "cover": "github+Yu-Gi-Oh-Duel-Monsters-VOCAL-BEST.jpg",
+      "album": "遊☆戯☆王デュエルモンスターズ ヴォーカルベスト",
+      "audio": {
+        "local": "Fire - Blaze",
+        "github": "",
+        "xiami": "1769238095",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
