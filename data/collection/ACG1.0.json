@@ -467,6 +467,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "DreamRiser",
+      "singer": "Choucho",
+      "desc": "OP 少女与战车",
+      "cover": "github+Girls-und-Panzer-Song.jpg",
+      "album": "",
+      "audio": {
+        "local": "DreamRiser - ChouCho",
+        "github": "",
+        "xiami": "1771566099",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
