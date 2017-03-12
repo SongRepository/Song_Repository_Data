@@ -448,6 +448,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "lull～そして仆らは～",
+      "singer": "Ray",
+      "desc": "OP 来自风平浪静的明天（第1-13话）",
+      "cover": "github+Nagi-no-Asukara-OP1.jpg",
+      "album": "lull~そして僕らは~",
+      "audio": {
+        "local": "lull ～そして僕らは～ - Ray",
+        "github": "",
+        "xiami": "1773104971",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
