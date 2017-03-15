@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "乒乓",
+  "author": "松本大洋",
+  "date": "2014",
+  "desc": "",
+  "cover": "github+Ping-Pong-The-Animation-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "乒乓",
+    "ピンポン THE ANIMATION"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "唯一人",
+      "singer": "爆弾ジョニー",
+      "desc": "OP",
+      "cover": "github+Ping-Pong-The-Animation-OP.jpg",
+      "album": "唯一人",
+      "audio": {
+        "local": "唯一人 - 爆弾ジョニー",
+        "github": "",
+        "xiami": "1774094458",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "＂あのヒーローと＂ 僕らについて",
+      "singer": "メレンゲ",
+      "desc": "ED",
+      "cover": "github+Ping-Pong-The-Animation-ED.jpg",
+      "album": "僕らについて",
+      "audio": {
+        "local": "＂あのヒーローと＂ 僕らについて - メレンゲ",
+        "github": "",
+        "xiami": "1772898506",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
