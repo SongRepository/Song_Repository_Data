@@ -505,6 +505,44 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "ed",
+      "name": "明日、僕は君に会いに行く。",
+      "singer": "ワカバ",
+      "desc": "ED 世界第一初恋",
+      "cover": "github+Sekaiichi-Hatsukoi-Song.jpg",
+      "album": "明日、僕は君に会いに行く。",
+      "audio": {
+        "local": "明日、僕は君に会いに行く。 - ワカバ",
+        "github": "",
+        "xiami": "1770135582",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "アイコトバ",
+      "singer": "サクラメリーメン",
+      "desc": "ED 世界第一初恋2",
+      "cover": "github+Sekaiichi-Hatsukoi-Song.jpg",
+      "album": "アイコトバ",
+      "audio": {
+        "local": "アイコトバ - サクラメリーメン",
+        "github": "",
+        "xiami": "1770550106",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
