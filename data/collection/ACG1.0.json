@@ -486,6 +486,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "Take Your Way",
+      "singer": "livetune / Fukase",
+      "desc": "OP 恶魔幸存者2",
+      "cover": "github+DEVIL-SURVIVOR-2-OP.jpg",
+      "album": "Take Your Way",
+      "audio": {
+        "local": "Take Your Way - livetune,Fukase",
+        "github": "",
+        "xiami": "1771836842",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
