@@ -543,6 +543,25 @@
         "local": "",
         "bilibili": ""
       }
+    },
+    {
+      "type": "op",
+      "name": "Groovin' Magic",
+      "singer": "ROUND TABLE",
+      "desc": "OP 飞跃颠峰2",
+      "cover": "github+Gunbuster-2-OP-Groovin' Magic.jpg",
+      "album": "Groovin' Magic",
+      "audio": {
+        "local": "Groovin’ Magic - ROUND TABLE,Nino",
+        "github": "",
+        "xiami": "3384175",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
     }
   ]
 }
