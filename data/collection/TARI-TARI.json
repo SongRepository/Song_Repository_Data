@@ -1,0 +1,93 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "TARI TARI",
+  "author": "P.A. Works",
+  "date": "2012",
+  "desc": "",
+  "cover": "github+TARI-TARI-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "TARI TARI",
+    "P.A. Works"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "Dreamer",
+      "singer": "AiRI",
+      "desc": "OP",
+      "cover": "github+TARI-TARI-OP.jpg",
+      "album": "Dreamer",
+      "audio": {
+        "local": "Dreamer - AiRI",
+        "github": "",
+        "xiami": "1771189136",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "潮风のハーモニー",
+      "singer": "白浜坂高校合唱部",
+      "desc": "ED",
+      "cover": "github+TARI-TARI-ED.jpg",
+      "album": "潮风のハーモニー",
+      "audio": {
+        "local": "潮风のハーモニー - 白浜坂高校合唱部",
+        "github": "",
+        "xiami": "1771169318",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "ウツクシセカイ",
+      "singer": "AiRI",
+      "desc": "",
+      "cover": "github+TARI-TARI-OP.jpg",
+      "album": "Dreamer",
+      "audio": {
+        "local": "ウツクシセカイ - AiRI",
+        "github": "",
+        "xiami": "1771189137",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ost",
+      "name": "Triple Smiley",
+      "singer": "白浜坂高校合唱部",
+      "desc": "",
+      "cover": "github+TARI-TARI-ED.jpg",
+      "album": "潮风のハーモニー",
+      "audio": {
+        "local": "Triple Smiley - 白浜坂高校合唱部",
+        "github": "",
+        "xiami": "1771169319",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
