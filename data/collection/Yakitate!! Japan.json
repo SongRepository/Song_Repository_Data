@@ -1,0 +1,75 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "日式面包王",
+  "author": "桥口隆志",
+  "date": "2004",
+  "desc": "",
+  "cover": "github+Yakitate!! Japan-Cover.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "日式面包王",
+    "焼きたて!!ジャぱん",
+    "Yakitate!! Japan"
+  ],
+  "song": [
+    {
+      "type": "op",
+      "name": "ホウキ雲",
+      "singer": "RYTHEM",
+      "desc": "OP （1〜29话）",
+      "cover": "github+Yakitate!! Japan-Song.jpg",
+      "album": "ホウキ雲",
+      "audio": {
+        "local": "ホウキ雲 - Rythem",
+        "github": "",
+        "xiami": "2383954",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "SUNDAY",
+      "singer": "ザ・ベイビースターズ",
+      "desc": "ED （1〜12话）",
+      "cover": "github+Yakitate!! Japan-Song.jpg",
+      "album": "laugh → love",
+      "audio": {
+        "local": "SUNDAY - ザ・ベイビースターズ",
+        "github": "",
+        "xiami": "1769943022",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Merry Go Round",
+      "singer": "星村麻衣",
+      "desc": "ED （54〜62话）",
+      "cover": "github+Yakitate!! Japan-Song.jpg",
+      "album": "Merry Go Round",
+      "audio": {
+        "local": "Merry Go Round - 星村麻衣",
+        "github": "",
+        "xiami": "371453",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
