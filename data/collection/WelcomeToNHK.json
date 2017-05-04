@@ -29,23 +29,6 @@
     },
     {
       "type": "ed",
-      "name": "踊る赤ちゃん人間",
-      "singer": "大槻ケンヂ",
-      "desc": "第1话～第12话片尾曲（ED）",
-      "cover": "github+WelcomeToNHK-song4.jpg",
-      "album": "踊る赤ちゃん人間",
-      "audio": {
-        "local": "パール兄弟 - 踊る赤ちゃん人间",
-        "xiami": "3510718",
-        "douban": "",
-        "netease": ""
-      },
-      "video": {
-        "bilibili": ""
-      }
-    },
-    {
-      "type": "ed",
       "name": "もどかしい世界の上で",
       "singer": "牧野由依",
       "desc": "第13话～第24话片尾曲（ED）",
