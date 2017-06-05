@@ -1,0 +1,94 @@
+{
+  "version": "0.1",
+  "type": "anime",
+  "name": "境界之轮回",
+  "author": "高桥留美子",
+  "date": "2015,2016,2017",
+  "desc": "",
+  "cover": "github+Kyoukai-no-Rinne-Cover-2.jpg",
+  "online": "",
+  "download": "",
+  "keyword": [
+    "境界之轮回",
+    "境界のRINNE",
+    "Kyoukai no Rinne"
+  ],
+  "song": [
+    {
+      "type": "ed",
+      "name": "トキノワ",
+      "singer": "パスピエ",
+      "desc": "ED 第一季（第1~13话）",
+      "cover": "github+Kyoukai-no-Rinne-OST.jpg",
+      "album": "トキノワ",
+      "audio": {
+        "local": "トキノワ - passepied",
+        "github": "",
+        "xiami": "",
+        "douban": "",
+        "netease": "31721273"
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "ふたつの世界",
+      "singer": "くるり",
+      "desc": "ED 第一季（第14话~25话）",
+      "cover": "github+Kyoukai-no-Rinne-OST.jpg",
+      "album": "ふたつの世界",
+      "audio": {
+        "local": "ふたつの世界 TV ver. - くるり",
+        "github": "",
+        "xiami": "1776332799",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "話をしよう",
+      "singer": "GLIM SPANKY",
+      "desc": "ED 第二季 (第26~37话)",
+      "cover": "github+Kyoukai-no-Rinne-OST.jpg",
+      "album": "話をしよう / 時代のヒーロー",
+      "audio": {
+        "local": "話をしよう - GLIM SPANKY",
+        "github": "",
+        "xiami": "1776074206",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    },
+    {
+      "type": "ed",
+      "name": "Beautiful Life",
+      "singer": "Shiggy Jr.",
+      "desc": "ED 第二季 (第38~50话)",
+      "cover": "github+Kyoukai-no-Rinne-OST.jpg",
+      "album": "Beautiful Life",
+      "audio": {
+        "local": "Beautiful Life - Shiggy Jr",
+        "github": "",
+        "xiami": "1792579004",
+        "douban": "",
+        "netease": ""
+      },
+      "video": {
+        "local": "",
+        "bilibili": ""
+      }
+    }
+  ]
+}
